@@ -21,6 +21,19 @@
 -- wherever the matching [[fullcite:<citekey>]] marker appears, and removes
 -- the now-redundant combined bibliography div.
 
+-- APA hanging indent, 0.5in. Pandoc's citeproc marks the *combined*
+-- bibliography div with a "hanging-indent" class (and the LaTeX/HTML/docx
+-- writers do honor that), but that class lives on the outer div this filter
+-- discards -- and even with it, Pandoc's typst writer (checked directly: a
+-- plain `pandoc --citeproc -t typst` with no custom filter at all) ignores
+-- "hanging-indent" entirely and emits a flush-left paragraph. So for typst
+-- specifically, this filter applies the indent itself via a raw
+-- `#set par(hanging-indent: ...)` block instead of relying on Pandoc's
+-- writer to do it. Other output formats (LaTeX/HTML/docx) still lose the
+-- indent here, same pre-existing gap as before -- only typst is fixed,
+-- since that's the only writer this project's pdfmd-options.engine uses.
+local TYPST_HANGING_INDENT = "1.27cm"
+
 local refs = {}
 
 local function harvest_and_strip(blocks)
@@ -49,7 +62,21 @@ local function expand(blocks)
       if key then
         local entry = refs[key]
         if entry then
-          for _, b in ipairs(entry) do out:insert(b) end
+          if FORMAT == "typst" then
+            -- #par(...)[...] (the direct element-function call), not
+            -- #block[ #set par(hanging-indent: ...) ... ] -- tested both
+            -- directly with the typst CLI (0.15.1): #block silently drops
+            -- the hanging-indent entirely (no error, just flush-left output,
+            -- confirmed at 1.27cm AND 5cm), while #par(...)[...] renders it
+            -- correctly. Root cause not chased further; this form is what
+            -- actually works.
+            local rendered = pandoc.write(pandoc.Pandoc(entry), "typst")
+            out:insert(pandoc.RawBlock("typst",
+              "#par(hanging-indent: " .. TYPST_HANGING_INDENT .. ")[\n"
+              .. rendered .. "]"))
+          else
+            for _, b in ipairs(entry) do out:insert(b) end
+          end
         else
           io.stderr:write("fullcite.lua: no reference found for citekey '" .. key .. "' (check references.bib and spelling)\n")
           out:insert(blk)
