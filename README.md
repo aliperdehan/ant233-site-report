@@ -43,9 +43,34 @@ git diff --staged     # see staged changes before committing
 Commit message style: present tense, describe what changed
 (`"add annotation for Trinkaus 1984"`, not `"update"` or `"wip"`).
 
+## Rendering the annotated bibliography (pandoc + citeproc)
+
+Sources are in `bib/references.bib` (BibTeX), styled with `apa6.csl`
+(installed at `~/.local/share/pandoc/csl/apa6.csl` so pandoc finds it by
+name from anywhere).
+
+Each entry:
+- Use `@citekey` as the heading — citeproc renders it as an in-text citation
+  ("Trinkaus (1984)") automatically, no extra setup.
+- Use `[[fullcite:citekey]]` on its own line under "**Citation:**" — a
+  custom Lua filter (`bib/fullcite.lua`) replaces it with that one source's
+  full formatted reference, instead of only getting a single combined
+  bibliography at the end of the document.
+
+Render to PDF or HTML:
+
+```bash
+pandoc bib/annotated-bibliography.md --citeproc --lua-filter=bib/fullcite.lua --resource-path=bib -o bib/annotated-bibliography.pdf
+```
+
+`--citeproc` must come before `--lua-filter` on the command line — citeproc
+needs to run first so the filter can consume its output.
+
 ## Layout
 
 - `bib/annotated-bibliography.md` — annotated bibliography (one entry per source)
+- `bib/references.bib` — bibliographic data (BibTeX), keyed by citekey
+- `bib/fullcite.lua` — pandoc filter for per-entry full citations (see above)
 - `info/` — course handouts (not tracked in git, see `.gitignore`)
 - `sources/` — source PDFs (not tracked in git, see `.gitignore`)
 - `report/` — site report (added later)

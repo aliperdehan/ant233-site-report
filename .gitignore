@@ -1,6 +1,10 @@
 # OS junk
 .DS_Store
 
+# Rendered pandoc output (regenerate with the command in README.md)
+bib/*.pdf
+bib/*.html
+
 # Office lock files
 ~$*.docx
 ~$*.doc
