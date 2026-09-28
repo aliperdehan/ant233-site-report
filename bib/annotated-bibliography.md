@@ -93,7 +93,7 @@ Published in a respected, peer-reviewed journal. It will be the primary counter-
 
 **Summary:**
 
-She conducted a microscopic inspection of a total of 128 postcranial bones and compared them against Juntunen and Combe Grenal bones, running a chi-squared statistical analysis. The null hypothesis was that `the striations are meaningless sedimentary scratches`, and it was disproven. She assigned those cut marks to secondary burial signs and, building on @trinkaus1985, concluded that Krapina Neanderthal remains represent one of the oldest found human burial practices.
+She microscopically inspected 128 postcranial bones and compared them against Juntunen and Combe Grenal bones, running a chi-squared statistical analysis. The null hypothesis was that `the striations are meaningless sedimentary scratches`, and it was disproven. She assigned those cut marks to secondary burial signs and, building on @trinkaus1985, concluded that Krapina Neanderthal remains represent one of the oldest human burial practices.
 
 **Evaluation:**
 
@@ -111,11 +111,11 @@ It will be used to argue that the cut marks observed on Krapina bones reflect se
 
 **Summary:**
 
-They describe eight white-tailed eagle talons and an associated pedal phalanx from the uppermost level of Krapina. This is the largest assemblage ever found from the entire European Mousterian period, and challenges the assumption that Neanderthals lacked symbolic culture by demonstrating that they made jewellery well ahead of modern human appearance in Europe.
+They describe eight white-tailed eagle talons and an associated pedal phalanx from the uppermost level of Krapina. As the largest assemblage ever found from the entire European Mousterian period, it challenges the assumption that Neanderthals lacked symbolic culture by showing they made jewellery well before modern humans appeared in Europe.
 
 **Evaluation:**
 
-Open-access, peer-reviewed journal. Methodology is visual inspection, low-power optical zoom, and high-resolution optical and microphotographic imaging. Even though the sample size is small, it can be used as evidence of symbolic cognitive capacity at Krapina.
+Open-access, peer-reviewed journal. Methodology includes visual inspection, low-power optical zoom, and high-resolution optical and microphotographic imaging. Despite the small sample size, it can be used as evidence of symbolic cognitive capacity at Krapina.
 
 ## @carbonell2010^[The different Carbonell et al. than the one assigned in the course syllabus]
 
@@ -125,7 +125,7 @@ Open-access, peer-reviewed journal. Methodology is visual inspection, low-power 
 
 **Summary:**
 
-They reviewed 4,411 identified remains, of which 165 are of Homo antecessor, from the TD6 level of Gran Dolina, Sierra de Atapuerca. Homo antecessor remains show extensive butchery (e.g., skinning, defleshing, disarticulation, dismembering) evidence, which is similar to that of processed ungulates on the same floor. Since the climate when the TD6 layer was formed was temperate, they ruled out starvation and classified TD6 as cultural cannibalism.
+They reviewed 4,411 identified remains, 165 belonging to Homo antecessor, from the TD6 level of Gran Dolina, Sierra de Atapuerca. Homo antecessor remains show extensive butchery (e.g., skinning, defleshing, disarticulation, dismembering) evidence, which is similar to that of processed ungulates on the same floor. Since the climate when the TD6 layer was formed was temperate, they ruled out starvation and classified TD6 as cultural cannibalism.
 
 **Evaluation:**
 
@@ -150,7 +150,7 @@ Although disagreement is common in scientific discourse, the authors seem a bit 
 
 **Summary:**
 
-The authors have reviewed a large corpus of literature, performing a substantial narrative review of cannibalism evidence starting from the early Pleistocene to the late Bronze Age, mentioning unconfirmed evidence from the Iron Age. They established a diagnostic framework for identifying cannibalism, which includes >20% anthropogenic modifications, intensive corpus processing, and an increased abundance of defleshing cut marks, along with the presence of human chewing and tooth marks. They categorised TD6 as nutritional exogenous cannibalism and reported Krapina as a debated site where mortuary preparation models conflict with cannibalism interpretations.
+The authors have reviewed a broad literature corpus, performing a substantial narrative review of cannibalism evidence starting from the early Pleistocene to the late Bronze Age, mentioning unconfirmed evidence from the Iron Age. They established a diagnostic framework for identifying cannibalism, which includes >20% anthropogenic modifications, intensive corpus processing, and an increased abundance of defleshing cut marks, along with the presence of human chewing and tooth marks. They categorised TD6 as nutritional exogenous cannibalism and reported Krapina as a debated site where mortuary preparation models conflict with cannibalism interpretations.
 
 **Evaluation:**
 

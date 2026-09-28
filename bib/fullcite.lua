@@ -64,6 +64,15 @@ local function expand(blocks)
   return out
 end
 
+-- Inline code (`like this`) is used for verbatim quotes from sources: render
+-- it as a normal curly-quoted quotation in the body font, not monospace.
+-- Double quotes inside the quote become single quotes (quote-within-quote).
+function Code(el)
+  local text = el.text:gsub('"', "'")
+  local parsed = pandoc.read('"' .. text .. '"', 'markdown+smart')
+  if parsed.blocks[1] then return parsed.blocks[1].content end
+end
+
 function Pandoc(doc)
   local blocks = harvest_and_strip(doc.blocks)
   doc.blocks = expand(blocks)
