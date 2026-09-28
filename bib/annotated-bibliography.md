@@ -3,6 +3,9 @@ title: Annotated Bibliography
 bibliography: references.bib
 csl: apa6.csl
 papersize: a4
+fontsize: 12pt
+mainfont: "Times New Roman"
+monofont: "Courier New"
 pdfmd-options:
   lua-filter: fullcite.lua
   engine: typst
@@ -79,9 +82,11 @@ Published in a respected, peer-reviewed journal. It will be the primary counter-
 
 [[fullcite:russell1987]]
 
+**Cited by:** 175
+
 **Summary:**
 
-She conducted a microscopic inspection of a total of 128 postcranial bones and compared them against Juntunen and Combe Grenal bones, running chi-squared statistical analysis. The null hypothesis was that `the striations are meaningless sedimentary scratches`, and it was disproven. She assigned those cut marks to secondary burial signs and, building on @trinkaus1985, concluded that Krapina Neanderthal remains represent one of the oldest found human burial practices.
+She conducted a microscopic inspection of a total of 128 postcranial bones and compared them against Juntunen and Combe Grenal bones, running a chi-squared statistical analysis. The null hypothesis was that `the striations are meaningless sedimentary scratches`, and it was disproven. She assigned those cut marks to secondary burial signs and, building on @trinkaus1985, concluded that Krapina Neanderthal remains represent one of the oldest found human burial practices.
 
 **Evaluation:**
 
@@ -96,6 +101,14 @@ It will be used to argue that the cut marks observed on Krapina bones reflect se
 [[fullcite:radovcic2015]]
 
 **Cited by:** 345
+
+**Summary:**
+
+They describe eight white-tailed eagle talons and an associated pedal phalanx from the uppermost level of Krapina. This is the largest assemblage ever found from the entire European Mousterian period, and challenges the assumption that Neanderthals lacked symbolic culture by demonstrating that they made jewellery well ahead of modern human appearance at the site.
+
+**Evaluation:**
+
+Open-access, peer-reviewed journal. Methodology is visual inspection, low-power optical zoom, and high-resolution optical and microphotographic imaging. Even though the sample size is small, it can be used as evidence of symbolic cognitive capacity at Krapina.
 
 ## @carbonell2010
 
