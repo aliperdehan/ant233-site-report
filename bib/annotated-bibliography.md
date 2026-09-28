@@ -2,6 +2,7 @@
 title: Annotated Bibliography
 bibliography: references.bib
 csl: apa6.csl
+papersize: a4
 pdfmd-options:
   lua-filter: fullcite.lua
   engine: typst
@@ -43,6 +44,14 @@ Notes:
 **Citation:**
 
 [[fullcite:rink1995]]
+
+**Summary:**
+
+They dated fossil teeth from Krapina and found that all the main fossil layers date to around 130 kyr. Hominins from beds 3--7 are all neanderthals, but the juvenile from layer 8 showed some characteristics of modern humans, and, based on this, the researchers suggested that layer 8 hominids may represent a transitional state.
+
+**Evaluation:**
+
+It is a one-page scientific correspondence, but the methods used here (Electron Spin Resonance (ESR) and Thermal Ionisation Mass Spectrometry (TIMS) U-series dating) are robust. Establishes the chronological baseline for Krapina.
 
 ## @trinkaus1985
 
