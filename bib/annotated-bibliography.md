@@ -45,6 +45,8 @@ Notes:
 
 [[fullcite:rink1995]]
 
+**Cited by:** 262
+
 **Summary:**
 
 They dated fossil teeth from Krapina and found that all the main fossil layers date to around 130 kyr. Hominins from beds 3--7 are all neanderthals, but the juvenile from layer 8 showed some characteristics of modern humans, and, based on this, the researchers suggested that layer 8 hominids may represent a transitional state.
@@ -59,6 +61,18 @@ It is a one-page scientific correspondence, but the methods used here (Electron 
 
 [[fullcite:trinkaus1985]]
 
+**Cited by:** 204
+
+**Summary:**
+
+He challenged the established assumption that fragmentary neanderthal evidence from Krapina indicates cannibalism. Evaluating `craniocervical fragmentation, diaphyseal splitting, "cut-marks", patterned preservation and breakage, burnt bone, and disassociation of the skeleton`, he concluded that none of those patterns can be explained solely as the product of cannibalism; normal geological and biological processes explain those processes more readily.
+
+He suggests examining each case more carefully, and implies that it is necessary to reject non-human explanations first, before considering anything related to cannibalism.
+
+**Evaluation:**
+
+Published in a respected, peer-reviewed journal. It will be the primary counter-argument against cannibalism at Krapina.
+
 ## @russell1987
 
 **Citation:**
@@ -70,6 +84,8 @@ It is a one-page scientific correspondence, but the methods used here (Electron 
 **Citation:**
 
 [[fullcite:radovcic2015]]
+
+**Cited by:** 345
 
 ## @carbonell2010
 
