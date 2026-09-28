@@ -38,6 +38,40 @@ Notes:
 [[fullcite:example2024]]
 -->
 
+## @rink1995
+
+**Citation:**
+
+[[fullcite:rink1995]]
+
+## @trinkaus1985
+
+**Citation:**
+
+[[fullcite:trinkaus1985]]
+
+## @russell1987
+
+**Citation:**
+
+[[fullcite:russell1987]]
+
+## @radovcic2015
+
+**Citation:**
+
+[[fullcite:radovcic2015]]
+
+## @carbonell2010
+
+**Citation:**
+
+[[fullcite:carbonell2010]]
+
 ## @saladie2017
 
+**Citation:**
+
 [[fullcite:saladie2017]]
+
+
