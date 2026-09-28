@@ -1,0 +1,13 @@
+# OS junk
+.DS_Store
+
+# Office lock files
+~$*.docx
+~$*.doc
+.~lock.*
+
+# Reference material (course handouts, source PDFs) — not authored content,
+# kept locally for reference but not tracked to keep the repo focused on
+# your own writing. Remove these lines if you'd rather have them versioned too.
+/info/
+/sources/
