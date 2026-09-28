@@ -1,4 +1,19 @@
-# AI Use Acknowledgement
+---
+title: AI Use Acknowledgement
+author:
+  - name: Ali Perdekhan
+    affiliation: "ANT 233: Stone Age Archaeology of Eurasia, Prof. Reed Coil, Nazarbayev University"
+date: 28 September 2026
+papersize: a4
+fontsize: 12pt
+mainfont: "Times New Roman"
+monofont: "Courier New"
+margin:
+  x: 2.54cm
+  y: 2.54cm
+pdfmd-options:
+  engine: typst
+---
 
 Tool: Claude Code, running Claude Sonnet 5 (Anthropic).
 

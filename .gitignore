@@ -4,6 +4,11 @@
 # Rendered pandoc output (regenerate with the command in README.md)
 bib/*.pdf
 bib/*.html
+/AI-USE.pdf
+/annotated-bibliography-with-ai-use.pdf
+
+# Scratch/comparison copies, not source content
+bib/*-pre-grammarly.md
 
 # Office lock files
 ~$*.docx

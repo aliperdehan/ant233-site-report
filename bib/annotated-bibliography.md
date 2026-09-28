@@ -69,7 +69,7 @@ Published in a respected, peer-reviewed journal by the lead Atapuerca research t
 
 [[fullcite:radovcic2015]]
 
-**Cited by:** 345
+**Cited by:** 345^[(Google Scholar, 28 Sep 2026), applies to all]
 
 **Summary:**
 
@@ -85,7 +85,7 @@ Open-access, peer-reviewed journal. Methodology includes visual inspection, low-
 
 [[fullcite:rink1995]]
 
-**Cited by:** 262^[(Google Scholar, 28 Sep 2026), applies to all]
+**Cited by:** 262
 
 **Summary:**
 
