@@ -74,6 +74,7 @@ needs to run first so the filter can consume its output.
 - `info/` — course handouts (not tracked in git, see `.gitignore`)
 - `sources/` — source PDFs (not tracked in git, see `.gitignore`)
 - `report/` — site report (added later)
+- `AI-USE.md` — acknowledgement of what AI assistance was and wasn't used for
 
 ## If your professor wants to see the history
 
