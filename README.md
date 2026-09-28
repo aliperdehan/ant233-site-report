@@ -1,90 +1,76 @@
-# ANT233 — Site Report Project
+# ANT 233 — Site Report Project
 
-Working repo for the annotated bibliography and site report, version-controlled
-as a Google-Docs-style revision history (per instructor's request to write
-against AI-detection false positives).
+Annotated bibliography (and, later, site report) for ANT 233: Stone Age
+Archaeology of Eurasia, Prof. Reed Coil, Nazarbayev University. Topic:
+cannibalism and mortuary practice at Krapina.
 
-## Why git instead of Google Docs
+## Why this is a git repository
 
-The commit history is the evidence: many small commits over time, each with a
-real diff, show the writing was built up incrementally by a person rather than
-pasted in all at once. A private GitHub remote adds server-side push
-timestamps, which are harder to fabricate than local commit timestamps.
+The course's AI policy asks students to write in Google Docs, or an
+equivalent that keeps a revision history, so authorship isn't only a
+plagiarism-detector's guess. A git repository serves the same purpose: every
+commit is a real, timestamped snapshot of the document as it grew, entry by
+entry, over several days — not a single pasted block of text. The repository
+is hosted on GitHub, so commit timestamps are also server-verified, not just
+set on my own machine.
 
-## Workflow
+**For a quick look at the writing process:** the [commit
+history](https://github.com/aliperdehan/ant233-site-report/commits/main)
+shows the bibliography being built up source by source, plus a later pass
+for factual review and one for grammar (see `AI-USE.md` below for exactly
+what each pass did).
 
-- Commit often — after each paragraph or source entry, not just at the end
-  of a session. A handful of large commits looks the same as a single paste.
-- Write real commit messages describing what changed (`add annotation for
-  Radovčić 2015`, not `update`).
-- Don't squash or rebase history before submitting — the granular log is the
-  point.
-- Push to GitHub regularly so timestamps are server-verified, not just local.
+## What's here
 
-## Command cheat sheet
+- **`bib/annotated-bibliography.md`** — the annotated bibliography, source.
+- **`AI-USE.md`** — a full account of what AI assistance was and wasn't used
+  for on this assignment (tooling/setup vs. writing, plus a separate
+  research-and-checking pass and a Grammarly pass, each documented with
+  what changed and why).
+- **`bib/references.bib`**, **`bib/fullcite.lua`** — citation data and a
+  small rendering filter (see "Rendering" below).
+- **`report/`** — site report, added later in the term.
+- **`info/`**, **`sources/`** — course handouts and source PDFs, kept
+  locally for reference but not version-controlled (not my own writing).
 
-Typical session:
+## Rendering
 
-```bash
-git status                       # see what you've changed
-git add bib/annotated-bibliography.md   # stage a specific file
-git commit -m "add annotation for Rink 1995"   # save a snapshot with a message
-git push                         # send committed snapshots to GitHub
-```
+The bibliography and `AI-USE.md` render to PDF via
+[Pandoc](https://pandoc.org) and are concatenated into one submission file.
+Sources are in `bib/references.bib` (BibTeX), styled with an APA CSL. Each
+entry cites its source as `@citekey` (renders as an in-text citation
+automatically) and pulls that one source's full formatted reference inline
+via a small custom filter (`bib/fullcite.lua`), rather than only getting a
+single combined bibliography at the end of the document.
 
-Other useful commands:
+<details>
+<summary>Commands (for my own reference)</summary>
 
-```bash
-git log --oneline    # see commit history, one line each
-git diff              # see unstaged changes line-by-line
-git diff --staged     # see staged changes before committing
-```
-
-Commit message style: present tense, describe what changed
-(`"add annotation for Trinkaus 1984"`, not `"update"` or `"wip"`).
-
-## Rendering the annotated bibliography (pandoc + citeproc)
-
-Sources are in `bib/references.bib` (BibTeX), styled with `apa6.csl`
-(installed at `~/.local/share/pandoc/csl/apa6.csl` so pandoc finds it by
-name from anywhere).
-
-Each entry:
-- Use `@citekey` as the heading — citeproc renders it as an in-text citation
-  ("Trinkaus (1984)") automatically, no extra setup.
-- Use `[[fullcite:citekey]]` on its own line under "**Citation:**" — a
-  custom Lua filter (`bib/fullcite.lua`) replaces it with that one source's
-  full formatted reference, instead of only getting a single combined
-  bibliography at the end of the document.
-
-The document's own front matter declares the filter
-(`pdfmd-options: lua-filter: fullcite.lua`), so with
-[pdfmd](https://github.com/aliperdehan/pdfmd) it's just:
+Typical writing session:
 
 ```bash
-cd bib && pdfmd -e typst
+git status
+git add bib/annotated-bibliography.md
+git commit -m "add annotation for Rink 1995"
+git push
 ```
 
-Without pdfmd, call pandoc directly and pass the filter explicitly:
+Render (via [pdfmd](https://github.com/aliperdehan/pdfmd), which picks up
+the citation filter automatically from the document's own front matter):
+
+```bash
+cd bib && pdfmd annotated-bibliography.md
+pdfmd AI-USE.md   # from the repo root
+qpdf --empty --pages bib/annotated-bibliography.pdf AI-USE.pdf -- annotated-bibliography-with-ai-use.pdf
+```
+
+Without pdfmd, call pandoc directly:
 
 ```bash
 pandoc bib/annotated-bibliography.md --citeproc --lua-filter=bib/fullcite.lua --resource-path=bib -o bib/annotated-bibliography.pdf
 ```
 
-`--citeproc` must come before `--lua-filter` on the command line either way —
-citeproc needs to run first so the filter can consume its output.
+(`--citeproc` has to come before `--lua-filter` — the filter reads
+citeproc's resolved output.)
 
-## Layout
-
-- `bib/annotated-bibliography.md` — annotated bibliography (one entry per source)
-- `bib/references.bib` — bibliographic data (BibTeX), keyed by citekey
-- `bib/fullcite.lua` — pandoc filter for per-entry full citations (see above)
-- `info/` — course handouts (not tracked in git, see `.gitignore`)
-- `sources/` — source PDFs (not tracked in git, see `.gitignore`)
-- `report/` — site report (added later)
-- `AI-USE.md` — acknowledgement of what AI assistance was and wasn't used for
-
-## If your professor wants to see the history
-
-`git log --stat` or the GitHub commit view shows every incremental change with
-timestamps.
+</details>
