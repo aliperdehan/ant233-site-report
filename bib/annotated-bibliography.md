@@ -1,11 +1,18 @@
 ---
-title: Annotated Bibliography
+title: Annotated Bibliography, Krapina
+author:
+  - name: Ali Perdekhan
+    affiliation: "ANT 233: Stone Age Archaeology of Eurasia, Prof. Reed Coil, Nazarbayev University"
+date: 28 September 2026
 bibliography: references.bib
 csl: apa6.csl
 papersize: a4
 fontsize: 12pt
 mainfont: "Times New Roman"
 monofont: "Courier New"
+margin:
+  x: 2.54cm
+  y: 2.54cm
 pdfmd-options:
   lua-filter: fullcite.lua
   engine: typst
@@ -48,7 +55,7 @@ Notes:
 
 [[fullcite:rink1995]]
 
-**Cited by:** 262
+**Cited by:** 262^[(Google Scholar, 28 Sep 2026), applies to all]
 
 **Summary:**
 
@@ -68,7 +75,7 @@ It is a one-page scientific correspondence, but the methods used here (Electron 
 
 **Summary:**
 
-He challenged the established assumption that fragmentary neanderthal evidence from Krapina indicates cannibalism. Evaluating `craniocervical fragmentation, diaphyseal splitting, "cut-marks", patterned preservation and breakage, burnt bone, and disassociation of the skeleton`, he concluded that none of those patterns can be explained solely as the product of cannibalism; normal geological and biological processes explain those processes more readily.
+He challenged the established assumption that fragmentary neanderthal evidence from Krapina indicates cannibalism. Evaluating `craniocervical fragmentation, diaphyseal splitting, "cut-marks", patterned preservation and breakage, burnt bone, and disassociation of the skeletons`, he concluded that none of those patterns can be explained solely as the product of cannibalism; normal geological and biological processes explain those processes more readily.
 
 He suggests examining each case more carefully, and implies that it is necessary to reject non-human explanations first, before considering anything related to cannibalism.
 
@@ -104,7 +111,7 @@ It will be used to argue that the cut marks observed on Krapina bones reflect se
 
 **Summary:**
 
-They describe eight white-tailed eagle talons and an associated pedal phalanx from the uppermost level of Krapina. This is the largest assemblage ever found from the entire European Mousterian period, and challenges the assumption that Neanderthals lacked symbolic culture by demonstrating that they made jewellery well ahead of modern human appearance at the site.
+They describe eight white-tailed eagle talons and an associated pedal phalanx from the uppermost level of Krapina. This is the largest assemblage ever found from the entire European Mousterian period, and challenges the assumption that Neanderthals lacked symbolic culture by demonstrating that they made jewellery well ahead of modern human appearance in Europe.
 
 **Evaluation:**
 
@@ -118,7 +125,7 @@ Open-access, peer-reviewed journal. Methodology is visual inspection, low-power 
 
 **Summary:**
 
-They reviewed 4,411 identified remains, of which 165 are of Homo antecessor, from the TD6 level of Gran Dolina, Sierra de Atapuerca. Homo antecessor remains show extensive butchery (e.g., skinning, defleshing, disarticulation, dismembering) evidence, which is identical to that of processed ungulates on the same floor. Since the climate when the TD6 layer was formed was temperate, they ruled out starvation and classified TD6 as cultural cannibalism.
+They reviewed 4,411 identified remains, of which 165 are of Homo antecessor, from the TD6 level of Gran Dolina, Sierra de Atapuerca. Homo antecessor remains show extensive butchery (e.g., skinning, defleshing, disarticulation, dismembering) evidence, which is similar to that of processed ungulates on the same floor. Since the climate when the TD6 layer was formed was temperate, they ruled out starvation and classified TD6 as cultural cannibalism.
 
 **Evaluation:**
 
@@ -143,8 +150,8 @@ Although disagreement is common in scientific discourse, the authors seem a bit 
 
 **Summary:**
 
-The authors have reviewed a large corpus of literature, performing a substantial meta-analysis of cannibalism evidence starting from the late Pleistocene to the late Bronze Age, mentioning unconfirmed evidence from the Iron Age. They established a diagnostic framework for identifying cannibalism, which includes >20% anthropogenic modifications, intensive corpus processing, and an increased abundance of defleshing cut marks, along with the presence of human chewing and tooth marks. They categorised TD6 as nutritional exogenous cannibalism and reported Krapina as a debated site where mortuary preparation models conflict with cannibalism interpretations.
+The authors have reviewed a large corpus of literature, performing a substantial narrative review of cannibalism evidence starting from the early Pleistocene to the late Bronze Age, mentioning unconfirmed evidence from the Iron Age. They established a diagnostic framework for identifying cannibalism, which includes >20% anthropogenic modifications, intensive corpus processing, and an increased abundance of defleshing cut marks, along with the presence of human chewing and tooth marks. They categorised TD6 as nutritional exogenous cannibalism and reported Krapina as a debated site where mortuary preparation models conflict with cannibalism interpretations.
 
 **Evaluation:**
 
-The most comprehensive source that acknowledges the contributions of both @trinkaus1985 and @russel1987, along with a stack of more recent sources, was published in a respected peer-reviewed journal. Its conclusions, though, should be interpreted with caution, since there is a slight bias towards cannibalism theory (`although it seems clear that the assemblages are the result from human cannibalism`). Serves as a foundation for comparing Krapina and TD6 using its framework.
+The most comprehensive source that acknowledges the contributions of both @trinkaus1985 and @russell1987, along with a stack of more recent sources, was published in a respected peer-reviewed journal. Its conclusions, though, should be interpreted with caution, since there is a slight bias towards cannibalism theory (`although it seems clear that the assemblages are the result from human cannibalism`). Serves as a foundation for comparing Krapina and TD6 using its framework.
