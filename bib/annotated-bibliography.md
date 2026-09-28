@@ -79,6 +79,16 @@ Published in a respected, peer-reviewed journal. It will be the primary counter-
 
 [[fullcite:russell1987]]
 
+**Summary:**
+
+She conducted a microscopic inspection of a total of 128 postcranial bones and compared them against Juntunen and Combe Grenal bones, running chi-squared statistical analysis. The null hypothesis was that `the striations are meaningless sedimentary scratches`, and it was disproven. She assigned those cut marks to secondary burial signs and, building on @trinkaus1985, concluded that Krapina Neanderthal remains represent one of the oldest found human burial practices.
+
+**Evaluation:**
+
+Published in a respected, peer-reviewed journal. The methodology is microscopic surface inspection and a chi-squared statistical test against two distinct control samples.
+
+It will be used to argue that the cut marks observed on Krapina bones reflect secondary burial of defleshed bones rather than nutritional cannibalism.
+
 ## @radovcic2015
 
 **Citation:**
