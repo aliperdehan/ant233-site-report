@@ -110,11 +110,19 @@ They describe eight white-tailed eagle talons and an associated pedal phalanx fr
 
 Open-access, peer-reviewed journal. Methodology is visual inspection, low-power optical zoom, and high-resolution optical and microphotographic imaging. Even though the sample size is small, it can be used as evidence of symbolic cognitive capacity at Krapina.
 
-## @carbonell2010
+## @carbonell2010^[The different Carbonell et al. than the one assigned in the course syllabus]
 
 **Citation:**
 
 [[fullcite:carbonell2010]]
+
+**Summary:**
+
+They reviewed 4,411 identified remains, of which 165 are of Homo antecessor, from the TD6 level of Gran Dolina, Sierra de Atapuerca. Homo antecessor remains show extensive butchery (e.g., skinning, defleshing, disarticulation, dismembering) evidence, which is identical to that of processed ungulates on the same floor. Since the climate when the TD6 layer was formed was temperate, they ruled out starvation and classified TD6 as cultural cannibalism.
+
+**Evaluation:**
+
+Published in a respected, peer-reviewed journal by the lead Atapuerca research team. Serves as a comparative case of true cannibalism, contrasting with much less robust Krapina evidence.
 
 ## @saladie2017
 
