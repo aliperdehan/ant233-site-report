@@ -21,6 +21,28 @@ timestamps, which are harder to fabricate than local commit timestamps.
   point.
 - Push to GitHub regularly so timestamps are server-verified, not just local.
 
+## Command cheat sheet
+
+Typical session:
+
+```bash
+git status                       # see what you've changed
+git add bib/annotated-bibliography.md   # stage a specific file
+git commit -m "add annotation for Rink 1995"   # save a snapshot with a message
+git push                         # send committed snapshots to GitHub
+```
+
+Other useful commands:
+
+```bash
+git log --oneline    # see commit history, one line each
+git diff              # see unstaged changes line-by-line
+git diff --staged     # see staged changes before committing
+```
+
+Commit message style: present tense, describe what changed
+(`"add annotation for Trinkaus 1984"`, not `"update"` or `"wip"`).
+
 ## Layout
 
 - `bib/annotated-bibliography.md` — annotated bibliography (one entry per source)
