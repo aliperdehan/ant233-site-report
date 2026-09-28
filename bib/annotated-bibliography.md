@@ -4,6 +4,7 @@ bibliography: references.bib
 csl: apa6.csl
 pdfmd-options:
   lua-filter: fullcite.lua
+  engine: typst
 ---
 
 <!--
@@ -29,15 +30,14 @@ Notes:
   that source's full APA reference by bib/fullcite.lua — see the render
   command in the README.
 -->
-
+<!--
 ## @example2024
 
 **Citation:**
 
 [[fullcite:example2024]]
+-->
 
-**Summary:** 2-4 sentences on what the source argues/found.
+## @saladie2017
 
-**Evaluation:** Credibility, methodology, relevance, limitations.
-
-**Application:** How this source will be used in the site report.
+[[fullcite:saladie2017]]
