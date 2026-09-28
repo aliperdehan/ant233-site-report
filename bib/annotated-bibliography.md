@@ -49,6 +49,36 @@ Notes:
 [[fullcite:example2024]]
 -->
 
+## @carbonell2010^[The different Carbonell et al. than the one assigned in the course syllabus]
+
+**Citation:**
+
+[[fullcite:carbonell2010]]
+
+**Summary:**
+
+They reviewed 4,411 identified remains, 165 belonging to Homo antecessor, from the TD6 level of Gran Dolina, Sierra de Atapuerca. Homo antecessor remains show extensive butchery (e.g., skinning, defleshing, disarticulation, dismembering) evidence, which is similar to that of processed ungulates on the same floor. Since the climate when the TD6 layer was formed was temperate, they ruled out starvation and classified TD6 as cultural cannibalism.
+
+**Evaluation:**
+
+Published in a respected, peer-reviewed journal by the lead Atapuerca research team. Serves as a comparative case of true cannibalism, contrasting with much less robust Krapina evidence.
+
+## @radovcic2015
+
+**Citation:**
+
+[[fullcite:radovcic2015]]
+
+**Cited by:** 345
+
+**Summary:**
+
+They describe eight white-tailed eagle talons and an associated pedal phalanx from the uppermost level of Krapina. As the largest assemblage ever found from the entire European Mousterian period, it challenges the assumption that Neanderthals lacked symbolic culture by showing they made jewellery well before modern humans appeared in Europe.
+
+**Evaluation:**
+
+Open-access, peer-reviewed journal. Methodology includes visual inspection, low-power optical zoom, and high-resolution optical and microphotographic imaging. Despite the small sample size, it can be used as evidence of symbolic cognitive capacity at Krapina.
+
 ## @rink1995
 
 **Citation:**
@@ -64,24 +94,6 @@ They dated fossil teeth from Krapina and found that all the main fossil layers d
 **Evaluation:**
 
 It is a one-page scientific correspondence, but the methods used here (Electron Spin Resonance (ESR) and Thermal Ionisation Mass Spectrometry (TIMS) U-series dating) are robust. Establishes the chronological baseline for Krapina.
-
-## @trinkaus1985
-
-**Citation:**
-
-[[fullcite:trinkaus1985]]
-
-**Cited by:** 204
-
-**Summary:**
-
-He challenged the established assumption that fragmentary neanderthal evidence from Krapina indicates cannibalism. Evaluating `craniocervical fragmentation, diaphyseal splitting, "cut-marks", patterned preservation and breakage, burnt bone, and disassociation of the skeletons`, he concluded that none of those patterns can be explained solely as the product of cannibalism; normal geological and biological processes explain those processes more readily.
-
-He suggests examining each case more carefully, and implies that it is necessary to reject non-human explanations first, before considering anything related to cannibalism.
-
-**Evaluation:**
-
-Published in a respected, peer-reviewed journal. It will be the primary counter-argument against cannibalism at Krapina.
 
 ## @russell1987
 
@@ -100,36 +112,6 @@ She microscopically inspected 128 postcranial bones and compared them against Ju
 Published in a respected, peer-reviewed journal. The methodology is microscopic surface inspection and a chi-squared statistical test against two distinct control samples.
 
 It will be used to argue that the cut marks observed on Krapina bones reflect secondary burial of defleshed bones rather than nutritional cannibalism.
-
-## @radovcic2015
-
-**Citation:**
-
-[[fullcite:radovcic2015]]
-
-**Cited by:** 345
-
-**Summary:**
-
-They describe eight white-tailed eagle talons and an associated pedal phalanx from the uppermost level of Krapina. As the largest assemblage ever found from the entire European Mousterian period, it challenges the assumption that Neanderthals lacked symbolic culture by showing they made jewellery well before modern humans appeared in Europe.
-
-**Evaluation:**
-
-Open-access, peer-reviewed journal. Methodology includes visual inspection, low-power optical zoom, and high-resolution optical and microphotographic imaging. Despite the small sample size, it can be used as evidence of symbolic cognitive capacity at Krapina.
-
-## @carbonell2010^[The different Carbonell et al. than the one assigned in the course syllabus]
-
-**Citation:**
-
-[[fullcite:carbonell2010]]
-
-**Summary:**
-
-They reviewed 4,411 identified remains, 165 belonging to Homo antecessor, from the TD6 level of Gran Dolina, Sierra de Atapuerca. Homo antecessor remains show extensive butchery (e.g., skinning, defleshing, disarticulation, dismembering) evidence, which is similar to that of processed ungulates on the same floor. Since the climate when the TD6 layer was formed was temperate, they ruled out starvation and classified TD6 as cultural cannibalism.
-
-**Evaluation:**
-
-Published in a respected, peer-reviewed journal by the lead Atapuerca research team. Serves as a comparative case of true cannibalism, contrasting with much less robust Krapina evidence.
 
 ## @saladie2017
 
@@ -155,3 +137,21 @@ The authors have reviewed a broad literature corpus, performing a substantial na
 **Evaluation:**
 
 The most comprehensive source that acknowledges the contributions of both @trinkaus1985 and @russell1987, along with a stack of more recent sources, was published in a respected peer-reviewed journal. Its conclusions, though, should be interpreted with caution, since there is a slight bias towards cannibalism theory (`although it seems clear that the assemblages are the result from human cannibalism`). Serves as a foundation for comparing Krapina and TD6 using its framework.
+
+## @trinkaus1985
+
+**Citation:**
+
+[[fullcite:trinkaus1985]]
+
+**Cited by:** 204
+
+**Summary:**
+
+He challenged the established assumption that fragmentary neanderthal evidence from Krapina indicates cannibalism. Evaluating `craniocervical fragmentation, diaphyseal splitting, "cut-marks", patterned preservation and breakage, burnt bone, and disassociation of the skeletons`, he concluded that none of those patterns can be explained solely as the product of cannibalism; normal geological and biological processes explain those processes more readily.
+
+He suggests examining each case more carefully, and implies that it is necessary to reject non-human explanations first, before considering anything related to cannibalism.
+
+**Evaluation:**
+
+Published in a respected, peer-reviewed journal. It will be the primary counter-argument against cannibalism at Krapina.
