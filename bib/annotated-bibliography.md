@@ -130,4 +130,21 @@ Published in a respected, peer-reviewed journal by the lead Atapuerca research t
 
 [[fullcite:saladie2017]]
 
+<!-- 
+> although in four—Krapina, Herxheim, Fontbrégoua
+and Brillenhöhle assemblages—alternative hypotheses have been proposed, although it
+> seems clear that the assemblages are the result from human cannibalism
 
+> Orschiedt’s (2002) argument that a large number of cut marks allows the rejection of
+> acts of human cannibalism in favour of mortuary treatments (without consumption)
+> does not seem valid.
+
+Although disagreement is common in scientific discourse, the authors seem a bit biased... -->
+
+**Summary:**
+
+The authors have reviewed a large corpus of literature, performing a substantial meta-analysis of cannibalism evidence starting from the late Pleistocene to the late Bronze Age, mentioning unconfirmed evidence from the Iron Age. They established a diagnostic framework for identifying cannibalism, which includes >20% anthropogenic modifications, intensive corpus processing, and an increased abundance of defleshing cut marks, along with the presence of human chewing and tooth marks. They categorised TD6 as nutritional exogenous cannibalism and reported Krapina as a debated site where mortuary preparation models conflict with cannibalism interpretations.
+
+**Evaluation:**
+
+The most comprehensive source that acknowledges the contributions of both @trinkaus1985 and @russel1987, along with a stack of more recent sources, was published in a respected peer-reviewed journal. Its conclusions, though, should be interpreted with caution, since there is a slight bias towards cannibalism theory (`although it seems clear that the assemblages are the result from human cannibalism`). Serves as a foundation for comparing Krapina and TD6 using its framework.
