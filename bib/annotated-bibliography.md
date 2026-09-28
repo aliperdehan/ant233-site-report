@@ -2,6 +2,8 @@
 title: Annotated Bibliography
 bibliography: references.bib
 csl: apa6.csl
+pdfmd-options:
+  lua-filter: fullcite.lua
 ---
 
 <!--

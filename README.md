@@ -57,14 +57,22 @@ Each entry:
   full formatted reference, instead of only getting a single combined
   bibliography at the end of the document.
 
-Render to PDF or HTML:
+The document's own front matter declares the filter
+(`pdfmd-options: lua-filter: fullcite.lua`), so with
+[pdfmd](https://github.com/aliperdehan/pdfmd) it's just:
+
+```bash
+cd bib && pdfmd -e typst
+```
+
+Without pdfmd, call pandoc directly and pass the filter explicitly:
 
 ```bash
 pandoc bib/annotated-bibliography.md --citeproc --lua-filter=bib/fullcite.lua --resource-path=bib -o bib/annotated-bibliography.pdf
 ```
 
-`--citeproc` must come before `--lua-filter` on the command line — citeproc
-needs to run first so the filter can consume its output.
+`--citeproc` must come before `--lua-filter` on the command line either way —
+citeproc needs to run first so the filter can consume its output.
 
 ## Layout
 
