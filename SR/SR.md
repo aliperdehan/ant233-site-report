@@ -20,3 +20,11 @@ Regionally, Krapina belongs to a continental zone in northwestern Croatia where 
 
 <!-- nothing remains of the site except the eroded, sandstone cliff face -->
 Beaver remains come mostly from the fluvial base of the shelter, which is consistent with a river-margin setting [@radovcic2015, p. 2].
+
+## Stratigraphy, Chronology, and Climate
+
+The cultural layers (levels 2 to 9) contain sublevels and lenses, which indicates a more complex depositional history than the nine-level scheme implies.
+Most hominin fossils come from levels 3 and 4, the so-called Hominid Zone, whilst the richest lithic concentrations occur in levels 3 and 8 [@simek1997, pp. 562, 565].
+
+Gorjanović-Kramberger proposed that the faunal remains indicate that the deposits were formed during a warm period, whilst the later research extended this history to the last glacial [@simek1997, p. 562].
+
