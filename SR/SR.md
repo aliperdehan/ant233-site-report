@@ -28,3 +28,10 @@ Most hominin fossils come from levels 3 and 4, the so-called Hominid Zone, whils
 
 Gorjanović-Kramberger proposed that the faunal remains indicate that the deposits were formed during a warm period, whilst the later research extended this history to the last glacial [@simek1997, p. 562].
 
+A sterile rockfall about 1 m thick overlies level 4, which suggests that the shelter wall was already collapsing during the occupation.
+The upper levels show cold and cold-temperature macrofaunas [@trinkaus1985, p. 204].
+
+Workmen excavated the shelter with shovels, bones were labelled by level instead of being recorded in position, and dynamite was used to remove large blocks, leaving fresh twentieth-century breaks on many specimens [@trinkaus1985, pp. 204–205].
+<!-- horrible -->
+
+The sediment pressure, rockfall, the activity of cave bears and rodents and hearths built next to buried remains could have broken or scattered the bones [@trinkaus1985, pp. 206–209].
