@@ -1,0 +1,13 @@
+author:
+  - name: Ali Perdekhan
+    affiliation: "ANT 233: Stone Age Archaeology of Eurasia, Prof. Reed Coil, Nazarbayev University"
+date: 15 November 2026
+csl: apa6.csl
+papersize: a4
+fontsize: 12pt
+linestretch: 2
+mainfont: "Times New Roman"
+monofont: "Courier New"
+margin: 1in
+pdfmd-options:
+  engine: typst
