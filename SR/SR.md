@@ -18,3 +18,5 @@ The Palaeolithic deposits were excavated between 1899 and 1905 by the Croatian p
 
 Regionally, Krapina belongs to a continental zone in northwestern Croatia where Middle Palaeolithic groups occupied caves, such as Vindija, Velika Pećina and Veternica, whereas the milder Dalmatian coast, separated from the northwest by the Dinarid Mountains, yields mostly open-air sites [@karavanic2004, pp. 185--186].
 
+<!-- nothing remains of the site except the eroded, sandstone cliff face -->
+Beaver remains come mostly from the fluvial base of the shelter, which is consistent with a river-margin setting [@radovcic2015, p. 2].
