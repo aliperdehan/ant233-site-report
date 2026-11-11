@@ -35,3 +35,22 @@ Published in a peer-reviewed volume by the zooarchaeologist who wrote the Krapin
 Body size gives climate and chronology evidence independent of the ESR dates in @rink1995, though it assumes the bear assemblage is homogeneous, which he admits is difficult to test.
 It will support the climate and stratigraphy sections.
 It is a cave bear study, so it rules out Neanderthal bear hunting, but its refined chronology does speak to rapid Neanderthal behavioural shifts.
+
+## @karavanic2004
+
+**Citation:**
+
+[[fullcite:karavanic2004]]
+
+**Summary:**
+
+He synthesises the Middle Palaeolithic of Croatia, placing Krapina with Vindija, Velika Pećina and Veternica as cave sites of the northwest.
+Krapina was occupied by Mousterian groups at least twice, using local river cobbles with both Levallois and cobble-wedge methods, and he relays an earlier reading of it as a short occupation by mobile people, though longer stays at some levels are possible.
+Faunal evidence shows successful large-game hunting, including Merck's rhinoceros.
+He treats cannibalism versus secondary burial as unresolved.
+
+**Evaluation:**
+
+Peer-reviewed volume chapter by a specialist in the region.
+As a synthesis, it relies on other authors' figures, and its summary of the raw material pattern overstates @simek1997's own results (cherts and silicified tuffs "exclusively in the later levels", where Simek's Figures 6 and 7 show silicified tuff common in levels 3 and 5), so the original will be used for that point.
+It will be used for Krapina's place in the regional and Eurasian record and for behaviour (mobility, hunting, raw material strategy), including comparison with later Neanderthals at Vindija.
