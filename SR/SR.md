@@ -35,3 +35,6 @@ Workmen excavated the shelter with shovels, bones were labelled by level instead
 <!-- horrible -->
 
 The sediment pressure, rockfall, the activity of cave bears and rodents and hearths built next to buried remains could have broken or scattered the bones [@trinkaus1985, pp. 206–209].
+
+Electron splin resonance (ESR) and mass spectrometric U-series analysis of enamel and dentine result in a mean of 130 ± 10 ka for levels 1--10, which puts the fluvial sequence in the last interglacial (MIS 5e).
+A single sample at layer 9 gives ESR average of 87 ± 7, and U-series average of 113 ± 10 kya [@rink1995].
