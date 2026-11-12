@@ -96,3 +96,37 @@ later levels tuff and cherts
 <!-- 569-570 -->
 Lvallois is more frequent earlier in time, but present in both units.
 <!-- 572 -->
+
+silicified tuff is only ~1% of the modern river gravels
+but abundant in the hominin-rich levels 3 and 8
+-> either selected at the river or brought in from further away
+<!-- 569 -->
+
+the shifts are read as behavioural change among Neanderthals, not replacement by modern humans
+<!-- 561, abstract -->
+but no level is anywhere near Bordes' 100-tool minimum for typological analysis
+<!-- 565 -->
+and only retouched tools were assigned to levels --- under 300 artefacts, about 24% of the total
+<!-- 561, 565 -->
+so the trends remain tentative, "must be viewed with caution"
+<!-- 566 -->
+
+<!--  -->
+occupation intensity is debated
+small lithic numbers in every level + some non-local materials -> short stays by mobile groups
+but long-term occupation of some levels is also possible
+the Krapina Neanderthals "appear to have been successful hunters of large game, including Merck's rhinoceros" (Miracle 1999)
+<!-- karavanic 188 -->
+
+the cave bear remains show little evidence of hominin involvement --- 2.2% of cave bear bones carry cut marks (1.1% gnawed, over 75% whole)
+<!-- miracle, 86 says flatly "no evidence", p. 89 gives the data -->
+The last major phase of occupation, in level 9, was by prime-adult to old male bears
+<!-- 86, 107 -->
+but collection and curation biases have had a major impact on the assemblage
+<!-- 87 -->
+and only 12 bear bones carry level information (layers 1, 5-6, 7, 9)
+<!-- 88 -->
+
+the same level holds a hearth, Mousterian tools and the talons
+<!-- radovcic 3 -->
+
