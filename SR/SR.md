@@ -82,3 +82,17 @@ There are no pencil designations but the colour and preservation of bones are si
 On the same level there are at least one hearth and a few Mousterian tools, mainly Levallois blanks and backed knives
 <!-- 3 -->
 <!-- all radovcic -->
+
+## Technology, Subsistence and Mobility
+
+Chaîne opératoire: cobble wedges, "amorphous flakes with remnant cortex and numerous naturally-backed knives"
+some exotic materials from which large artefacts with no waste -> carried across the landscape
+indicates curation
+<!-- simek 561-562 -->
+typology is stable --- sidescrapers "vary between 50 and over 90% of the tools in a level"
+<!-- 567 -->
+early levels (K, 1, 5, 9) are dominated by  volcanic tuff
+later levels tuff and cherts
+<!-- 569-570 -->
+Lvallois is more frequent earlier in time, but present in both units.
+<!-- 572 -->
