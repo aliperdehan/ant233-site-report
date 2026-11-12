@@ -55,3 +55,13 @@ It is a scraper-rich Charentian Mousterian, in which sidescrapers make up more t
 Most raw material was collected as cobbles from the nearby Krapinica River<!--562-->, with tuffs and silicified tuffs accounting for 65% of the artefacts and chert for ~23%.
 <!-- 566 -->
 [@simek1997, pp. 562, 565--567].
+
+Human skeletal remains: 900 specimens [@simek1997, p. 561]
+Even though Krapina 1 is at the extreme of the range, the metric and qualitative traints confirm that it is still consistent with Neanderthal variation
+<!-- 564 -->
+
+The cave bears are described as the numerically most important taxon, so the ranking may depend on the counting unit [@miracle2011, p. 86].
+
+[@rink1995] more than 850 skeletal remains from levels 3 and 4.
+
+Krapins mostly yields isolated and incomplete bones [@trinkaus1985, p. 203]
