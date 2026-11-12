@@ -43,3 +43,15 @@ Male bears of Krapina are smaller than those of Divje babe I (MIS 3 and MIS 5aâ€
 It also implies that deposition took place within MIS 5e over thousands rather than tens of thousands of years.
 It was also earlier suggested that sedimentation in the uppermost layer continued into the cooler MIS 5d, but the body-size evidence argues against this.
 The scarcity of other modifications on cave bear bones suggests that sediment covered them quickly [@miracle2011, pp. 85â€“87, 107].
+
+## Materials Recovered
+
+The lithic assemblage comprises 1,191 artefacts, of which 273 fit Bordes' Middle Palaeolithic tool types and 918 are classed as waste.
+<!-- 565 -->
+The text also lists 38 retouched pieces outside the type list, though.
+<!-- 567 -->
+It is a scraper-rich Charentian Mousterian, in which sidescrapers make up more than half of the tools, notched pieces and naturally backed knives are common, and Levallois blanks are present but not abundant.
+<!-- 566 -->
+Most raw material was collected as cobbles from the nearby Krapinica River<!--562-->, with tuffs and silicified tuffs accounting for 65% of the artefacts and chert for ~23%.
+<!-- 566 -->
+[@simek1997, pp. 562, 565--567].
