@@ -130,3 +130,19 @@ and only 12 bear bones carry level information (layers 1, 5-6, 7, 9)
 the same level holds a hearth, Mousterian tools and the talons
 <!-- radovcic 3 -->
 
+## Mortuary Treatment and Symbolic Behaviour
+
+## Mortuary Treatment and Symbolic Behaviour
+
+Gorjanović-Kramberger proposed cannibalism in 1906
+<!-- trinkaus 204 footnote, 205 -->
+Fragmentation, cut marks, burnt bone and disassociation were reviewed.
+none of these patterns can be explained solely by cannibalism
+it was argued that the Neanderthals were buried, by natural or human processes, soon after death
+<!-- 203 abstract, 205-209 -->
+striations were tested directly
+48 of 128 Krapina postcranial bones carry striations
+these differ from Mousterian butchery marks on reindeer from Combe Grenal (20 of 241)
+though match statistically the cut marks on 22 modern skeletons defleshed for secondary burial at Juntunen (104 of 310)
+-> bodies were cleaned for secondary burial
+<!-- russell 381 abstract, 384 table 4, chi-square 0.6743, no significant difference; 7 of 9 elements match, radii and tibiae differ -->
