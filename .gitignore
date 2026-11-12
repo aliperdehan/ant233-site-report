@@ -20,3 +20,4 @@ bib/*-pre-grammarly.md
 # your own writing. Remove these lines if you'd rather have them versioned too.
 /info/
 /sources/
+*.pdf
