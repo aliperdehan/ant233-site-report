@@ -65,3 +65,20 @@ The cave bears are described as the numerically most important taxon, so the ran
 [@rink1995] more than 850 skeletal remains from levels 3 and 4.
 
 Krapins mostly yields isolated and incomplete bones [@trinkaus1985, p. 203]
+
+<!-- MNI = minimum number of individuals -->
+<!-- so the fauna is dominated by large mammals -->
+25 taxa; MNI rhinos 21.7%, bears 17.0%, bison/bos 7.5%; beavers "17.9% of the bones from site", mostly from the fluvial base; 13.6% burning, 4.1% cut marks
+[@radovcic2015, p. 2]
+
+Eight mostly complete talons, an associated phalanx that represent a minimum of three eagles (later "three-four different eagles").
+<!-- 1 -->
+all derive from a single level
+<!-- abstract -->
+`only talon 385.4 bears a pencil mark identifying the uppermost level` ("9" on the talon, p. 5 Fig. 2)
+There are no pencil designations but the colour and preservation of bones are similar.
+<!-- 5 -->
+<!-- Ursus spelaeus zone = uppermost level -->
+On the same level there are at least one hearth and a few Mousterian tools, mainly Levallois blanks and backed knives
+<!-- 3 -->
+<!-- all radovcic -->
