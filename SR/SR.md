@@ -158,3 +158,18 @@ Russell found no resemblance between the Krapina striations and Mousterian butch
 -> the two sites sit at different points of the diagnostic range
 <!-- russell 381; carbonell 539 -->
 
+the evidence for symbolic behaviour is much more scarce, small sample size
+four of the eight talons and the phalanx carry cut marks, mostly with smoothed edges
+all eight talons show polished facets or abrasion
+three of the largest have similar notches
+-> was read as mounting in a necklace or bracelet
+<!-- radovcic 1 abstract, 3, 10 -->
+other Mousterian sites (Pech de l'Azé, Fumane) have yielded only isolated talons
+<!-- radovcic 2 -->
+this reading depends on interpreting the smoothing as wrapping in fibre
+they "assume" this, without experimental or chemical work
+and they cannot rule out taphonomic causes for the notches
+the talons are also assigned to a single level on thin evidence
+-> the symbolism is inferred instead of observed
+<!-- radovcic 3, 10-11; "assume" p. 11; "cannot rule out taphonomic causes" p. 10; "no experimental archaeology or chemical analyses" p. 10 -->
+
