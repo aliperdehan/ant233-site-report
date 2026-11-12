@@ -146,3 +146,15 @@ these differ from Mousterian butchery marks on reindeer from Combe Grenal (20 of
 though match statistically the cut marks on 22 modern skeletons defleshed for secondary burial at Juntunen (104 of 310)
 -> bodies were cleaned for secondary burial
 <!-- russell 381 abstract, 384 table 4, chi-square 0.6743, no significant difference; 7 of 9 elements match, radii and tibiae differ -->
+
+<!-- contrasting with the level TD6 of Gran Dolina (Spain) -->
+more than 800 ka, the oldest known case
+165 Homo antecessor remains among 1,039 specimens identified to taxon
+butchery on the human remains is similar to that on the non-human remains
+-> interpreted as cultural cannibalism
+<!-- carbonell 539 abstract, 542 table 1, 543 -->
+<!-- NOTE: table 2 on 543 totals 4,411 but includes 1,567 indeterminates; 1,039 is the taxon-identified total -->
+Russell found no resemblance between the Krapina striations and Mousterian butchery marks
+-> the two sites sit at different points of the diagnostic range
+<!-- russell 381; carbonell 539 -->
+
