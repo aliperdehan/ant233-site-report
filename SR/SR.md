@@ -132,8 +132,6 @@ the same level holds a hearth, Mousterian tools and the talons
 
 ## Mortuary Treatment and Symbolic Behaviour
 
-## Mortuary Treatment and Symbolic Behaviour
-
 Gorjanović-Kramberger proposed cannibalism in 1906
 <!-- trinkaus 204 footnote, 205 -->
 Fragmentation, cut marks, burnt bone and disassociation were reviewed.
@@ -173,3 +171,16 @@ the talons are also assigned to a single level on thin evidence
 -> the symbolism is inferred instead of observed
 <!-- radovcic 3, 10-11; "assume" p. 11; "cannot rule out taphonomic causes" p. 10; "no experimental archaeology or chemical analyses" p. 10 -->
 
+## Relevance to the Eurasian Record
+
+it holds "the largest sample of archaic human remains known from one site"
+<!-- trinkaus 203 -->
+<!-- the situation may have changed -->
+the restriction of the sequence to MIS 5e makes it a reference point for the last interglacial in Central and Southeastern Europe
+<!-- miracle 107 -->
+
+the talons indicate ornament production well before modern humans appeared in Europe
+<!-- radovcic 1 abstract -->
+behavioural change among neanderthals themselves
+-> no need to invoke a transitional population for level 8 to explain the stone-tool changes
+<!-- simek 561 abstract, 564; rink mentions the transitional idea -->
