@@ -169,21 +169,19 @@ The talons are also assigned to a single level on thin evidence [pp. 3, 10--11],
 
 ## Relevance to the Eurasian Record
 
-Trinkaus described the Krapina remains in 1985 as "the largest sample of archaic human remains known from one site"
-<!-- trinkaus 203 -->
+Krapina holds what @trinkaus1985 [p. 203] described as "the largest sample of archaic human remains known from one site".
 <!-- the situation may have changed -->
-the restriction of the sequence to MIS 5e makes it a reference point for the last interglacial in Central and Southeastern Europe
-<!-- miracle 107 -->
+The restriction of its sequence to MIS 5e makes it a reference point for the last interglacial in Central and Southeastern Europe [@miracle2011, p. 107].
 
-the talons indicate ornament production well before modern humans appeared in Europe
-<!-- radovcic 1 abstract -->
-behavioural change among neanderthals themselves
--> no need to invoke a transitional population for level 8 to explain the stone-tool changes
-<!-- simek 561 abstract, 564; rink mentions the transitional idea -->
+The talons, in the reading of @radovcic2015 [p. 1], indicate ornament production well before modern humans appeared in Europe.
+@simek1997 [pp. 561, 564], performing the lithic reanalysis, interprets the change seen in the stone tools as behavioural change among Neanderthals, so a transitional population, as @rink1995 raised for level 8, need not be invoked to explain it.
+<!-- "need not be invoked" joins Simek and Rink
+Simek's unit split is at stratum 6, not 8 -->
 
-Krapina is perhaps the most controversial of the Neanderthal assemblages linked to cannibalism between ~130 and 40 ka
-<!-- maybe a methodological test case -->
-<!-- saladie 1042, 1062 -->
+According to @saladie2017 [pp. 1042, 1062], Krapina is perhaps the most controversial of the Neanderthal assemblages linked to cannibalism between ~130 and 40 ka, which makes it a methodological test case.
+<!-- saladie 1042 "perhaps the greatest amount of controversy"
+1062 "seems clear"
+~130 ka (Krapina) to ~43 ka (El Sidrón) from Table 1 -->
 
-it anchors a regional sequence: the Vindija Neanderthals, directly dated by AMS to 29 and 28 ka, lived in the same area about 100 ka after those of Krapina
-<!-- karavanic 189 -->
+Krapina also anchors a regional sequence.
+The Vindija Neanderthals, whom @karavanic2004 [p. 189] reports as directly dated by AMS to 29 and 28 ka, lived in the same area some 100 ka after those of Krapina.
