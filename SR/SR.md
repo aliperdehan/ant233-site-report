@@ -140,12 +140,14 @@ None of these patterns can be explained solely by cannibalism [p. 203], and the 
 205-209 analysis
 213 "insufficient to determine whether ... accidentally or intentionally buried" -->
 
-Russell tested the striations directly
-48 of 128 Krapina postcranial bones carry striations
-these differ from Mousterian butchery marks on reindeer from Combe Grenal (20 of 241)
-though match statistically the cut marks on 22 modern skeletons defleshed for secondary burial at Juntunen (104 of 310)
--> bodies were cleaned for secondary burial
-<!-- russell 381 abstract, 384 table 4, chi-square 0.6743, no significant difference; 7 of 9 elements match, radii and tibiae differ -->
+@russell1987 [p. 381] tested the striations directly.
+Those on 48 of the 128 bones compared differ from Mousterian butchery marks on reindeer from Combe Grenal (20 of 241), though still match statistically the cut marks on 22 modern skeletons defleshed for secondary burial at Juntunen (104 of 310) [p. 384], which is read as evidence that the bodies were cleaned for secondary burial.
+<!-- russell 381 abstract
+384 Table 4: chi-square 0.6743 vs Juntunen (no significant difference), 47.1 vs Combe Grenal
+7 of 9 elements match, radii and tibiae differ
+128 = the nine element groups compared (Table 1, p. 383: 207 specimens examined)
+printed total of 48 striated, but the rows sum to 47
+NB the text, p. 392, says ulnae less and fibulae more likely, contradicting her own table -->
 
 <!-- contrasting with the level TD6 of Gran Dolina (Spain) -->
 more than 800 ka, the oldest known case
