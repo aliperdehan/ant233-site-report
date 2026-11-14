@@ -115,21 +115,18 @@ and only retouched tools were assigned to levels --- under 300 artefacts, about 
 so the trends remain tentative, "must be viewed with caution"
 <!-- 566 -->
 
-<!--  -->
-occupation intensity is debated
-small lithic numbers in every level + some non-local materials -> short stays by mobile groups
-but long-term occupation of some levels is also possible
-the Krapina Neanderthals "appear to have been successful hunters of large game, including Merck's rhinoceros" (Miracle 1999)
-<!-- karavanic 188 -->
+Occupation intensity is debated: @karavanic2004 [p. 188] relays the reading that small lithic numbers in every level and some non-local materials point to short stays by mobile groups, although long-term occupation of some levels is also possible.
+The Krapina Neanderthals also "appear to have been successful hunters of large game, including Merck's rhinoceros" [p. 188].
+<!-- karavanic 188 relays: short stays = Simek 1991; long-term possible = Patou-Mathis 1997; hunters = Miracle 1999
+probably closer to the end: get those actual sources -->
 
-the cave bear remains show little evidence of hominin involvement --- 2.2% of cave bear bones carry cut marks (1.1% gnawed, over 75% whole)
-<!-- miracle, 86 says flatly "no evidence", p. 89 gives the data -->
-Miracle suggests that the last major phase of bear occupation, in level 9, was by prime-adult to old male bears
-<!-- 86, 107 -->
-but collection and curation biases have had a major impact on the assemblage
-<!-- 87 -->
-and only 12 bear bones carry level information (layers 1, 5-6, 7, 9)
-<!-- 88 -->
+@miracle2011 [p. 89] reports little evidence of hominin involvement in the cave bear remains: 2.2% of the bones carry cut marks, 1.1% are gnawed and over 75% are whole.
+The last major phase of occupation, in level 9, is suggested to have been by prime-adult to old male bears [p. 107], but collection and curation biases have had a major impact on the assemblage [p. 87], and only 12 bear bones carry level information (layers 1, 5--6, 7, 9) [p. 88].
+<!-- miracle 86 says flatly "no evidence of hominin involvement"
+p. 89 gives the data (2.2% of bone NISP cut-marked, 1.1% gnawed, >75% whole)
+p. 107 "suggests that the last major phase ... (layer 9) was by prime-adult to old male cave bears"
+p. 87 biases
+p. 88 twelve provenienced bones -->
 
 the same level holds a hearth, Mousterian tools and the talons
 <!-- radovcic 3 -->
