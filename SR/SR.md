@@ -26,13 +26,36 @@ A sterile rockfall about 1 m thick overlies level 4, which suggests that the she
 "already collapsing during the occupation" is inference -->
 
 Gorjanović-Kramberger proposed that the faunal remains indicate that the deposits were formed during a warm period, whilst the later research extended this history to the last glacial [@simek1997, p. 562].
-The upper levels show cold and cold-temperate macrofaunas [@trinkaus1985, p. 204].
+The upper levels show cold and cold-temperate macrofaunas, and on this evidence Malez placed layers 2--4 at the "terminal last interglacial or initial last glacial", and the subsequent levels in the early last glacial [@trinkaus1985, p. 204].
 Electron spin resonance (ESR) dating of tooth enamel, with mass spectrometric U-series analysis used to evaluate the uranium-uptake history, gives a mean of 130 ± 10 ka for levels 1--8, which puts the fluvial sequence in the last interglacial (MIS 5e).
 A single sample from level 9 gives an ESR average of 87 ± 7 ka and a U-series average of 113 ± 10 ka [@rink1995].
+<!-- simek 562 "Based on the fauna, Gorjanović argued that the deposits formed during a warm period"
+simek 562: Malez argued for a longer history "extending from the end of the Riss-Würm well into the Würm glacial complex"
+trinkaus 204 relays Malez: "subsequent cultural levels exhibit cold and cold-temperate macrofaunas"
+"Levels 2--4 are usually referred to the terminal last interglacial or initial last glacial, and the subsequent levels probably date to the early last glacial"
+rink 24: mean 130±10 for layers 1--8, "consistent with its faunal character"
+rink 24 table: level 9 sample 91187A, ESR mean 87±7, U-series mean 113±10
+-->
+
+The ESR dates, however, supersede the faunal chronology, at least for levels 1--8, and @simek1997 [p. 562] read them as confirming Gorjanović-Kramberger's interpretation of the deposits.
+@miracle2011 [p. 99] accepts the faunal shift from full interglacial to somewhat cooler conditions within the sequence, whilst keeping the whole assemblage within MIS 5.
+<!-- simek 562 "However, recent electron spin resonance (ESR) dating ... the entire Krapina sequence was deposited at around 130 ka"
+"Gorjanović was remarkably accurate in his interpretation of the deposits"
+"supersede" --- paraphrase of simek's "However"
+NB simek says "entire sequence", but rink's level 9 sample is younger (87±7 / 113±10)
+the supersession is clean for 1--8, level 9 rests on the body-size argument
+miracle 99 "the faunal assemblages indicate a shift from full interglacial to somewhat cooler conditions within the sequence, I have argued that the entire assemblage falls within MIS 5"
+-->
 
 Male bears of Krapina are smaller than those of Divje babe I (MIS 3 and MIS 5a--d), which @miracle2011 [p. 85] reads as an adaptation to a full interglacial climate.
 It also implies that deposition took place within MIS 5e over thousands rather than tens of thousands of years [p. 107].
-An earlier suggestion that sedimentation in the uppermost layer continued into the cooler MIS 5d [pp. 85--86] is argued against by the same body-size evidence.
+The earlier suggestions that sedimentation in the uppermost layer continued into the cooler MIS 5d [pp. 85--86], or into the last glacial as Malez and others proposed [p. 99], are argued against by the same body-size evidence.
+<!-- miracle 85 abstract: smaller than Divje babe I facies A (MIS 3) and facies C (MIS 5a--d), "best understood as an adaptation to a full interglacial climate"
+107 "deposition occurred over an interval of thousands of years rather than tens of thousands of years"
+85--86: the 2007 suggestion that layer 9 sedimentation continued into MIS 5d
+99: Malez uppermost = Würm II (MIS 3); Herak, Patou-Mathis = early Würm (MIS 4)
+102 "further evidence against extending the Krapina sequence into MIS 3 or MIS 4; Krapina layer 9 dates to MIS 5"
+-->
 
 Workmen excavated the shelter with shovels, bones were labelled by level instead of being recorded in position, and dynamite was used to remove large blocks, leaving fresh twentieth-century breaks on many specimens [@trinkaus1985, pp. 204–205].
 <!-- horrible -->
