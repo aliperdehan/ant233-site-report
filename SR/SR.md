@@ -41,7 +41,8 @@ The scarcity of other modifications on cave bear bones suggests that sediment co
 
 ## Materials Recovered
 
-The lithic assemblage comprises 1,191 artefacts, of which 273 fit Bordes' Middle Palaeolithic tool types and 918 are classed as waste, and 38 retouched pieces are listed outside the type list [@simek1997, pp. 565, 567].
+The lithic assemblage comprises 1,191 artefacts, of which 273 fit Bordes' Middle Palaeolithic tool types and 918 are classed as waste.
+38 retouched pieces among those are listed outside the type list [@simek1997, pp. 565, 567].
 It is a scraper-rich Charentian Mousterian, in which sidescrapers make up more than half of the tools, notched and denticulated pieces and naturally backed knives are common, and Levallois blanks are present but not abundant [p. 566].
 
 The fauna is dominated by large mammals.
@@ -104,9 +105,13 @@ hunters = Miracle 1999
 probably closer to the end: get those actual sources -->
 
 @miracle2011 [p. 89] reports little evidence of hominin involvement in the cave bear remains: 2.2% of the bones carry cut marks, 1.1% are gnawed, and over 75% are whole.
-The last major phase of occupation, in level 9, is suggested to have been by prime-adult to old male bears [p. 107], but collection and curation biases have had a major impact on the assemblage [p. 87], and only 12 bear bones carry level information (layers 1, 5--6, 7, 9) [p. 88].
-The uppermost layers (8/9), which Gorjanović-Kramberger called the "Ursus spelaeus zone", also hold a hearth, Mousterian tools and the talons described above, so they may well record use by both bears and Neanderthals [@radovcic2015, pp. 3, 11].
-<!-- miracle 86 says flatly "no evidence of hominin involvement"
+He concludes that the last major phase of occupation, in level 9, "[was not by Neandertals but by] ... prime-adult to old male cave bears" [pp. 86, 107], but collection and curation biases have had a major impact on the assemblage [p. 87], and only 12 bear bones carry level information (layers 1, 5--6, 7, 9) [p. 88].
+The uppermost layers (8/9), which Gorjanović-Kramberger called the "Ursus spelaeus zone", also hold at least one hearth, a few Mousterian tools and the talons described above [@radovcic2015, pp. 3, 11], so they may well record use by both bears and Neanderthals, which goes against his stated reading.
+The two need not conflict, though.
+A hearth and a few tools do not necessarily constitute a major phase of occupation, the zone spans layers 8 and 9 rather than level 9 alone, and Miracle himself raises the time-shared use of caves by bears and hominins [p. 86].
+<!-- miracle 86, quoting Miracle 2007, 236: "the last major phase of occupation at Krapina (layer 9) [was not by Neandertals but by] ... prime-adult to old male cave bears"
+86 "no evidence of hominin involvement in the accumulation or modification of cave bear remains"
+86 "shared (time-shared?) use of caves and rock overhangs"
 p. 89 gives the data (2.2% of bone NISP cut-marked, 1.1% gnawed, >75% whole)
 p. 107 "suggests that the last major phase ... (layer 9) was by prime-adult to old male cave bears"
 p. 87 biases
@@ -114,7 +119,9 @@ p. 88 twelve provenienced bones
 radovcic 3 hearth and tools in the Ursus spelaeus zone
 SI p. 11 zone = layers 8/9
 "may well record use by both bears and Neanderthals" --- inference
- -->
+now flagged against Miracle
+"need not amount to a major phase" / reconciliation --- inference
+-->
 
 ## Mortuary Treatment and Symbolic Behaviour
 
