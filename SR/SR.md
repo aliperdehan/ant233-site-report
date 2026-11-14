@@ -12,35 +12,34 @@ Finally, it presents the importance of Krapina.
 Krapina is a collapsed rockshelter in a sandstone bluff above the Krapinica River in the Hrvatsko Zagorje region, about 40 km NNW of Zagreb.
 The Palaeolithic deposits were excavated between 1899 and 1905 by the Croatian palaeontologist Dragutin Gorjanović-Kramberger, who recorded roughly 11 m of Pleistocene sediment in nine major levels and published the finds in two monographs, in 1906 and 1913 [@simek1997, pp. 561--562].
 Krapina is the first Palaeolithic site discovered in Croatia [@karavanic2004, p. 185].
-Nothing remains of the site except the eroded, sandstone cliff face [@radovcic2015, p. 2].
+Nothing remains of the site except the eroded sandstone cliff face [@radovcic2015, p. 2].
 
 <!-- map -->
 
-Regionally, Krapina belongs to a continental zone in northwestern Croatia where Middle Palaeolithic groups occupied caves, such as Vindija, Velika Pećina and Veternica, whereas the milder Dalmatian coast, separated from the northwest by the Dinarid Mountains, yields mostly open-air sites [@karavanic2004, pp. 185--186].
+Regionally, Krapina belongs to a continental zone in northwestern Croatia where Middle Palaeolithic groups occupied caves, such as Vindija, Velika Pećina and Veternica, whereas the milder Dalmatian coast, separated from the northwest by the Dinaric Mountains, yields mostly open-air sites [@karavanic2004, pp. 185--186].
 Beaver remains come mostly from the fluvial base of the shelter, which is consistent with a river-margin setting [@radovcic2015, p. 2].
 
 ## Stratigraphy, Chronology, and Climate
 
 The cultural layers (levels 2 to 9) contain sublevels and lenses, which indicate a more complex depositional history than the nine-level scheme implies.
 Most hominin fossils come from levels 3 and 4, the so-called Hominid Zone, whilst the richest lithic concentrations occur in levels 3 and 8 [@simek1997, pp. 562, 565].
+A sterile rockfall about 1 m thick overlies level 4, which suggests that the shelter wall was already collapsing during the occupation [@trinkaus1985, p. 204].
+<!-- trinkaus 204 for the 1 m rockfall
+"already collapsing during the occupation" is inference -->
 
-Gorjanović-Kramberger proposed that the faunal remains indicate that the deposits were formed during a warm period, whilst later research extended this history to the last glacial [@simek1997, p. 562].
-
-A sterile rockfall about 1 m thick overlies level 4, which suggests that the shelter wall was already collapsing during the occupation.
-The upper levels show cold and cold-temperature macrofauna [@trinkaus1985, p. 204].
-
-Workmen excavated the shelter with shovels, bones were labelled by level instead of being recorded in position, and dynamite was used to remove large blocks, leaving fresh twentieth-century breaks on many specimens [@trinkaus1985, pp. 204–205].
-<!-- horrible -->
-
-The sediment pressure, rockfall, the activity of cave bears and rodents and hearths built next to buried remains could have broken or scattered the bones [@trinkaus1985, pp. 206–209].
-
+Gorjanović-Kramberger proposed that the faunal remains indicate that the deposits were formed during a warm period, whilst the later research extended this history to the last glacial [@simek1997, p. 562].
+The upper levels show cold and cold-temperate macrofaunas [@trinkaus1985, p. 204].
 Electron spin resonance (ESR) dating of tooth enamel, with mass spectrometric U-series analysis used to evaluate the uranium-uptake history, gives a mean of 130 ± 10 ka for levels 1--8, which puts the fluvial sequence in the last interglacial (MIS 5e).
 A single sample from level 9 gives an ESR average of 87 ± 7 ka and a U-series average of 113 ± 10 ka [@rink1995].
 
 Male bears of Krapina are smaller than those of Divje babe I (MIS 3 and MIS 5a--d), which @miracle2011 [p. 85] reads as an adaptation to a full interglacial climate.
 It also implies that deposition took place within MIS 5e over thousands rather than tens of thousands of years [p. 107].
 An earlier suggestion that sedimentation in the uppermost layer continued into the cooler MIS 5d [pp. 85--86] is argued against by the same body-size evidence.
-The scarcity of other modifications on cave bear bones suggests that sediment covered them quickly [p. 107].
+
+Workmen excavated the shelter with shovels, bones were labelled by level instead of being recorded in position, and dynamite was used to remove large blocks, leaving fresh twentieth-century breaks on many specimens [@trinkaus1985, pp. 204–205].
+<!-- horrible -->
+The sediment pressure, rockfall, the activity of cave bears and rodents and hearths built next to buried remains could have broken or scattered the bones [@trinkaus1985, pp. 206–209].
+The scarcity of other modifications on cave bear bones suggests that sediment covered them quickly [@miracle2011, p. 107].
 
 ## Materials Recovered
 
