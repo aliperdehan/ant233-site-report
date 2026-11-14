@@ -132,10 +132,14 @@ exotic pieces, "no waste", "indicates curation"
 565 no level near the 100-tool minimum; under 300 artefacts, about 24%, assigned to levels
 566 "must be viewed with caution" -->
 
-Occupation intensity is debated: @karavanic2004 [p. 188] relays the reading that small lithic numbers in every level and some non-local materials point to short stays by mobile groups, although long-term occupation of some levels is also possible.
+Occupation intensity is debated.
+@simek1997 [p. 573] read the small assemblage sizes in every level and the exotic stone as indicating brief occupations by mobile groups, with "no real evidence for long-term occupation" in any layer.
+@karavanic2004 [p. 188], however, relays the reading that long-term occupation of some levels is also possible.
 The Krapina Neanderthals also "appear to have been successful hunters of large game, including Merck's rhinoceros" [p. 188].
-<!-- karavanic 188 relays: short stays = Simek 1991
-long-term possible = Patou-Mathis 1997
+<!-- simek 573 "small assemblage sizes in all levels, suggesting brief occupations"
+"no real evidence for long-term occupation is present in any layer"
+573 cites Simek 1991 for the mobility reading, so the 1997 paper is the primary here
+karavanic 188 relays: long-term possible = Patou-Mathis 1997
 hunters = Miracle 1999
 probably closer to the end: get those actual sources -->
 
