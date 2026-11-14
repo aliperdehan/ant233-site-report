@@ -54,3 +54,12 @@ He thinks human meat was probably eaten at Krapina but sees the reason as unreso
 Peer-reviewed volume chapter by a specialist in the region.
 As a synthesis, it relies on other authors' figures, and its summary of the raw material pattern overstates @simek1997's own results (cherts and silicified tuffs "exclusively in the later levels", where Simek's Figures 6 and 7 show silicified tuff common in levels 3 and 5), so the original will be used for that point.
 It will be used for Krapina's place in the regional and Eurasian record and for behaviour (mobility, hunting, raw material strategy), including comparison with later Neanderthals at Vindija.
+
+## @radovcic2016
+
+**Citation:**
+
+[[fullcite:radovcic2016]]
+
+**Use:** Source of Gorjanović-Kramberger's stratigraphic section (p. 2, Fig. 1), redrawn as Panel B of Figure 1.
+
