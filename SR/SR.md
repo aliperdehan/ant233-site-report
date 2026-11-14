@@ -133,12 +133,13 @@ the same level holds a hearth, Mousterian tools and the talons
 
 ## Mortuary Treatment and Symbolic Behaviour
 
-Gorjanović-Kramberger proposed cannibalism in 1906
-<!-- trinkaus 204 footnote, 205 -->
-Trinkaus reviewed fragmentation, cut marks, burnt bone and disassociation of the skeletons.
-none of these patterns can be explained solely by cannibalism
-and argued that the Neanderthals were buried, by natural or human processes, soon after death, though he considered the data insufficient to say whether the burial was accidental or intentional.
-<!-- 203 abstract, 205-209, 213 -->
+Gorjanović-Kramberger proposed cannibalism in 1906, and @trinkaus1985 [pp. 204--205] reviewed the fragmentation, cut marks, burnt bone and disassociation of the skeletons on which the proposal rests.
+None of these patterns can be explained solely by cannibalism [p. 203], and the preservation of skeletal parts indicates that the Neanderthals were buried, by natural or human processes, soon after death [pp. 203, 205--209], although the data are insufficient to say whether the burial was accidental or intentional [p. 213].
+<!-- trinkaus 204 footnote, 205 (1906 proposal)
+203 abstract
+205-209 analysis
+213 "insufficient to determine whether ... accidentally or intentionally buried" -->
+
 Russell tested the striations directly
 48 of 128 Krapina postcranial bones carry striations
 these differ from Mousterian butchery marks on reindeer from Combe Grenal (20 of 241)
