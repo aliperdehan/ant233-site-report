@@ -87,21 +87,18 @@ indicates curation
 <!-- simek 561-562 -->
 typology is stable --- sidescrapers "vary between 50 and over 90% of the tools in a level"
 <!-- 567 -->
-
 volcanic tuff dominates the early levels (K and 1), and also levels 5 and 9
 The later levels are dominated by silicified tuffs and cherts, which do not co-occur
 <!-- p. 568 "most frequent ... in levels K, 1, 5 and 9"
 p. 569 "most frequent tool material in early levels ... also dominate ... levels 5 and 9"
 p. 570 "silicified tuffs and cherts ... dominate the later levels" -->
-
-Lvallois is more frequent earlier in time, but present in both units.
+Levallois is more frequent earlier in time, but present in both units.
 <!-- 572 -->
 
 silicified tuff is only ~1% of the modern river gravels
 but abundant in the hominin-rich levels 3 and 8
 -> either selected at the river or brought in from further away
 <!-- 569 -->
-
 the shifts are read as behavioural change among Neanderthals, not replacement by modern humans
 <!-- 561, abstract -->
 but no level is anywhere near Bordes' 100-tool minimum for typological analysis
@@ -113,7 +110,9 @@ so the trends remain tentative, "must be viewed with caution"
 
 Occupation intensity is debated: @karavanic2004 [p. 188] relays the reading that small lithic numbers in every level and some non-local materials point to short stays by mobile groups, although long-term occupation of some levels is also possible.
 The Krapina Neanderthals also "appear to have been successful hunters of large game, including Merck's rhinoceros" [p. 188].
-<!-- karavanic 188 relays: short stays = Simek 1991; long-term possible = Patou-Mathis 1997; hunters = Miracle 1999
+<!-- karavanic 188 relays: short stays = Simek 1991
+long-term possible = Patou-Mathis 1997
+hunters = Miracle 1999
 probably closer to the end: get those actual sources -->
 
 @miracle2011 [p. 89] reports little evidence of hominin involvement in the cave bear remains: 2.2% of the bones carry cut marks, 1.1% are gnawed, and over 75% are whole.
