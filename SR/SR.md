@@ -184,3 +184,10 @@ the talons indicate ornament production well before modern humans appeared in Eu
 behavioural change among neanderthals themselves
 -> no need to invoke a transitional population for level 8 to explain the stone-tool changes
 <!-- simek 561 abstract, 564; rink mentions the transitional idea -->
+
+Krapina is perhaps the most controversial of the Neanderthal assemblages linked to cannibalism between ~130 and 40 ka
+<!-- maybe a methodological test case -->
+<!-- saladie 1042, 1062 -->
+
+it anchors a regional sequence: the Vindija Neanderthals, directly dated by AMS to 29 and 28 ka, lived in the same area about 100 ka after those of Krapina
+<!-- karavanic 189 -->
