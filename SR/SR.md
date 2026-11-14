@@ -136,6 +136,12 @@ Those on 48 of the 128 bones compared differ from Mousterian butchery marks on r
 printed total of 48 striated, but the rows sum to 47
 NB the text, p. 392, says ulnae less and fibulae more likely, contradicting her own table -->
 
+The debate is still ongoing.
+@saladie2017 [pp. 1042--1043, 1062] list Krapina among their assemblages of cannibalism, report White and Toth's claim that the bodies were processed intensively, with cut marks, percussion damage and possible human tooth marks, and conclude that, although alternative hypotheses exist for Krapina and three other assemblages, it seems clear that they result from human cannibalism.
+<!-- saladie 1042 Krapina "the site that has aroused perhaps the greatest amount of controversy"
+1043 summarises Trinkaus (rejects cannibalism), Russell and Frayer et al. (burial preparation), Patou-Mathis (cannibalism), White and Toth ("intensively", "hammer/anvil percussion damage", "possible human tooth marks")
+1062 "alternative hypotheses have been proposed, although it seems clear that the assemblages are the result from human cannibalism" (AB entry flags this as a slight bias) -->
+
 In level TD6 of Gran Dolina (Spain), at more than 800 ka, @carbonell2010 [pp. 539, 542--543, 548] found that butchery on the 165 *Homo antecessor* remains (among 1,039 specimens identified to taxon) resembles that on the non-human remains, and interpreted it as the oldest known case of cultural cannibalism.
 Since @russell1987 [p. 381] found no resemblance between the Krapina striations and Mousterian butchery marks, the two sites sit at different points of the diagnostic range.
 <!-- carbonell 539 abstract (>800 ka)
@@ -143,6 +149,21 @@ Since @russell1987 [p. 381] found no resemblance between the Krapina striations 
 543 Table 2 (165; NB total 4,411 includes 1,567 indeterminates)
 548 "oldest example of cultural cannibalism known to date"
 "different points of the diagnostic range" joins Russell and Carbonell -->
+
+@saladie2017 [p. 1035] recognise cannibalism by four markers: anthropogenic modification on more than 20% of the human remains, intensive processing of the bodies, more defleshing and filleting cut marks than dismembering marks, and human tooth or chewing marks.
+In TD6, 44.5% of the *Homo antecessor* bones carry anthropogenic modification, the bodies were processed intensively, and human tooth marks are recorded [p. 1039].
+Krapina passes the first test on Russell's counts, with striations on 48 of the 128 bones compared (38%) [@russell1987, p. 384];
+the readings, however, diverge once the other markers are considered.
+White and Toth claim intensive processing and possible tooth marks [@saladie2017, p. 1043], whereas Russell reads the striations as defleshing to prepare bones for burial.
+<!-- saladie 1035 abstract --- markers
+1039 TD6: "44.5% exhibited some type of anthropogenic modification"
+bodies "scalped, skinned, disarticulated, eviscerated and defleshed"
+"human tooth marks"
+russell 384 Table 4: 48 of 128 = 37.5%
+NB the 128 is a subset (the nine element groups compared), the rows sum to 47
+
+applying Saladié's markers to Krapina is inference
+the third marker (defleshing vs dismembering) is not assessed for TD6 or Krapina here -->
 
 The evidence for symbolic behaviour rests on a much smaller sample.
 @radovcic2015 [pp. 1, 3, 10] report that four of the eight talons and the phalanx carry cut marks, mostly with smoothed edges, that all eight talons show polished facets or abrasion, and that three of the largest have similar notches, which they read as the result of mounting the talons in a necklace or bracelet.
