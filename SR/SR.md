@@ -39,10 +39,10 @@ The sediment pressure, rockfall, the activity of cave bears and rodents and hear
 Electron spin resonance (ESR) dating of tooth enamel, with mass spectrometric U-series analysis used to evaluate the uranium-uptake history, gives a mean of 130 ± 10 ka for levels 1--8, which puts the fluvial sequence in the last interglacial (MIS 5e).
 A single sample from level 9 gives an ESR average of 87 ± 7 ka and a U-series average of 113 ± 10 ka [@rink1995].
 
-Male bears of Krapina are smaller than those of Divje babe I (MIS 3 and MIS 5a–d), which is best understood as an adaptation to a full interglacial climat.
-It also implies that deposition took place within MIS 5e over thousands rather than tens of thousands of years.
-Miracle had earlier suggested that sedimentation in the uppermost layer continued into the cooler MIS 5d, but he now considers the body-size evidence to argue against this.
-The scarcity of other modifications on cave bear bones suggests that sediment covered them quickly [@miracle2011, pp. 85–87, 107].
+Male bears of Krapina are smaller than those of Divje babe I (MIS 3 and MIS 5a--d), which @miracle2011 [pp. 85] reads as an adaptation to a full interglacial climate.
+It also implies that deposition took place within MIS 5e over thousands rather than tens of thousands of years [p. 107].
+An earlier suggestion that sedimentation in the uppermost layer continued into the cooler MIS 5d [pp. 85--86] is argued against by the same body-size evidence.
+The scarcity of other modifications on cave bear bones suggests that sediment covered them quickly [p. 107].
 
 ## Materials Recovered
 
