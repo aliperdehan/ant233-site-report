@@ -47,16 +47,17 @@ The scarcity of other modifications on cave bear bones suggests that sediment co
 ## Materials Recovered
 
 The lithic assemblage comprises 1,191 artefacts, of which 273 fit Bordes' Middle Palaeolithic tool types and 918 are classed as waste.
-<!-- 565 -->
+<!-- 565, 567 (table 1) -->
 The text also lists 38 retouched pieces outside the type list, though.
-<!-- 567 -->
+<!-- 565 -->
 It is a scraper-rich Charentian Mousterian, in which sidescrapers make up more than half of the tools, notched pieces and naturally backed knives are common, and Levallois blanks are present but not abundant.
 <!-- 566 -->
 Most raw material was collected as cobbles from the nearby Krapinica River<!--562-->, with tuffs and silicified tuffs accounting for 65% of the artefacts and chert for ~23%.
 <!-- 566 -->
 [@simek1997, pp. 562, 565--567].
 
-Human skeletal remains: 900 specimens [@simek1997, p. 561]
+Human skeletal remains: 900 specimens [@simek1997, p. 563]
+<!-- trinkaus: 800, rink: >850 -->
 Even though Krapina 1 is at the extreme of the range, the metric and qualitative traints confirm that it is still consistent with Neanderthal variation
 <!-- 564 -->
 
@@ -77,7 +78,7 @@ all derive from a single level
 <!-- abstract -->
 `only talon 385.4 bears a pencil mark identifying the uppermost level` ("9" on the talon, p. 5 Fig. 2)
 There are no pencil designations but the colour and preservation of bones are similar.
-<!-- 5 -->
+<!-- 5 (pencil "9"), 3 (colour and preserv) -->
 <!-- Ursus spelaeus zone = uppermost level -->
 On the same level there are at least one hearth and a few Mousterian tools, mainly Levallois blanks and backed knives
 <!-- 3 -->
