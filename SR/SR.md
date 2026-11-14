@@ -53,20 +53,19 @@ Most raw material was collected as cobbles from the nearby Krapinica River<!--56
 <!-- 566 -->
 [@simek1997, pp. 562, 565--567].
 
-Human skeletal remains: 900 specimens [@simek1997, p. 563]
-<!-- trinkaus: 800, rink: >850 -->
-Even though Krapina 1 is often at the extreme of the Neanderthal range, @simek1997 [p. 564] reports that its metric and qualitative traits are consistent with inclusion among the Neanderthals.
-
-The cave bears are described as the numerically most important taxon, so the ranking may depend on the counting unit [@miracle2011, p. 86].
-
-More than 850 skeletal remains were found, principally in layers 3 and 4 [@rink1995].
-
-Krapina mostly yields isolated and incomplete bones [@trinkaus1985, p. 203]
-
 <!-- MNI = minimum number of individuals -->
 <!-- so the fauna is dominated by large mammals -->
 25 taxa; MNI rhinos 21.7%, bears 17.0%, bison/bos 7.5%; beavers "17.9% of the bones from site", mostly from the fluvial base; 13.6% burning, 4.1% cut marks
 [@radovcic2015, p. 2]
+The cave bears are described as the numerically most important taxon, so the ranking may depend on the counting unit [@miracle2011, p. 86].
+
+Human skeletal remains: 900 specimens [@simek1997, p. 563]
+<!-- trinkaus: 800, rink: >850 -->
+More than 850 skeletal remains were found, principally in layers 3 and 4 [@rink1995].
+Krapina mostly yields isolated and incomplete bones [@trinkaus1985, p. 203]
+Level 8 yielded the cranium of a juvenile, Krapina 1, whose modern-looking features led @rink1995 to suggest that the level 8 hominids were possibly transitional to anatomically modern humans.
+<!-- rink 24: "layer 8 contained cranial elements of a 6-8-yr-old juvenile (Krapina 1)"; "possibly transitional to anatomically modern hominids" -->
+Even though Krapina 1 is often at the extreme of the Neanderthal range, @simek1997 [p. 564] report that its metric and qualitative traits are consistent with inclusion among the Neanderthals.
 
 Eight mostly complete talons, an associated phalanx that represent a minimum of three eagles (later "three-four different eagles").
 <!-- 1 -->
@@ -76,7 +75,7 @@ all derive from a single level
 There are no pencil designations, but the colour and preservation of bones are similar.
 <!-- 5 (pencil "9"), 3 (colour and preserv) -->
 <!-- Ursus spelaeus zone = uppermost level -->
-On the same level there are at least one hearth and a few Mousterian tools, mainly Levallois blanks and backed knives
+On the same level there is at least one hearth and a few Mousterian tools, mainly Levallois blanks and backed knives
 <!-- 3 -->
 <!-- all radovcic -->
 
@@ -171,7 +170,7 @@ Krapina holds what @trinkaus1985 [p. 203] described as "the largest sample of ar
 The restriction of its sequence to MIS 5e makes it a reference point for the last interglacial in Central and Southeastern Europe [@miracle2011, p. 107].
 
 The talons, in the reading of @radovcic2015 [p. 1], indicate ornament production well before modern humans appeared in Europe.
-@simek1997 [pp. 561, 564], performing the lithic reanalysis, interprets the change seen in the stone tools as behavioural change among Neanderthals, so a transitional population, as @rink1995 raised for level 8, need not be invoked to explain it.
+@simek1997 [pp. 561, 564], performing the lithic reanalysis, interpret the change seen in the stone tools as behavioural change among Neanderthals, so a transitional population, as @rink1995 raised for level 8, need not be invoked to explain it.
 <!-- "need not be invoked" joins Simek and Rink
 Simek's unit split is at stratum 6, not 8 -->
 
