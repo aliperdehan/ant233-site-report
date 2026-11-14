@@ -14,7 +14,7 @@ Typology stays stable across levels, but raw material choice and blank productio
 
 Published in a respected, peer-reviewed journal and the first stratigraphic reanalysis of the Krapina lithics.
 Only retouched tools were recorded by level, and no level reaches the minimum tool count for typological analysis, so the trends are tentative.
-It will be used for the material culture section, showing local sourcing, technological flexibility, and the tool kit that could have made the cut marks debated by @russell1987 and @trinkaus1985.
+It will be used for the material culture and technology sections, showing local sourcing, the curation of exotic stone, and technological flexibility.
 
 ## @miracle2011
 
@@ -24,8 +24,8 @@ It will be used for the material culture section, showing local sourcing, techno
 
 **Summary:**
 
-He analyses the sex and size of the cave bears, the most numerous vertebrate at Krapina.
-The assemblage is heavily male (63.6--100% depending on the element), with no evidence of hominin involvement in the bear accumulation (only 2.2% of the total assemblage is cut-marked).
+He analyses the sex and size of the cave bears which is numerically the most important taxon in the Krapina.
+The assemblage is heavily male (63.6--100% depending on the element), with little evidence of hominin involvement (2.2% of cave bear bone specimens are cut-marked).
 Krapina's male bears are smaller than those from Divje babe I (MIS 3 and MIS 5a--d), which he reads as an adaptation to a full interglacial climate.
 He concludes that the sequence is restricted to MIS 5e and accumulated over thousands, not tens of thousands, of years.
 
@@ -33,8 +33,8 @@ He concludes that the sequence is restricted to MIS 5e and accumulated over thou
 
 Published in a peer-reviewed volume by the zooarchaeologist who wrote the Krapina faunal monograph.
 Body size gives climate and chronology evidence independent of the ESR dates in @rink1995, though it assumes the bear assemblage is homogeneous, which he admits is difficult to test.
-It will support the climate and stratigraphy sections.
-It is a cave bear study, so it rules out Neanderthal bear hunting, but its refined chronology does speak to rapid Neanderthal behavioural shifts.
+It will support the climate and stratigraphy sections and the discussion of how the assemblage formed.
+It is a cave bear study, so it says little about Neanderthal hunting.
 
 ## @karavanic2004
 
@@ -47,7 +47,7 @@ It is a cave bear study, so it rules out Neanderthal bear hunting, but its refin
 He synthesises the Middle Palaeolithic of Croatia, placing Krapina with Vindija, Velika Pećina and Veternica as cave sites of the northwest.
 Krapina was occupied by Mousterian groups at least twice, using local river cobbles with both Levallois and cobble-wedge methods, and he relays an earlier reading of it as a short occupation by mobile people, though longer stays at some levels are possible.
 Faunal evidence shows successful large-game hunting, including Merck's rhinoceros.
-He treats cannibalism versus secondary burial as unresolved.
+He thinks human meat was probably eaten at Krapina but sees the reason as unresolved, noting a possible ritual site where defleshed bones were accumulated.
 
 **Evaluation:**
 
