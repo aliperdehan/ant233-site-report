@@ -25,6 +25,10 @@ Beaver remains come mostly from the fluvial base of the shelter (layer 1), which
 
 ## Stratigraphy, Chronology, and Climate
 
+The lowest metre of the deposit (layer 1) is mostly fluvial sediment, with some lenses bearing stone artefacts and animal remains, whilst the overlying 8 m are allochthonous cave sediments holding the eight cultural layers, 2 to 9 [@miracle2011, p. 88].
+<!-- miracle 88 "the lowermost metre consisted of mostly fluvial sediments", with lenses, "labelled as 'layer 1'"
+"the overlying 8 metres of allocthonous cave sediments contained 8 visible cultural layers", numbered 2 (lowest) to 9 (uppermost)
+-->
 The cultural layers (levels 2 to 9) contain sublevels and lenses, which indicate a more complex depositional history than the nine-level scheme implies.
 Most hominin fossils come from levels 3 and 4, the so-called Hominid Zone, whilst the richest lithic concentrations occur in levels 3 and 8 [@simek1997, pp. 562, 565].
 A sterile rockfall about 1 m thick overlies level 4, which suggests that the shelter wall was already collapsing during the occupation [@trinkaus1985, p. 204].
@@ -33,13 +37,15 @@ A sterile rockfall about 1 m thick overlies level 4, which suggests that the she
 
 Gorjanović-Kramberger proposed that the faunal remains indicate that the deposits were formed during a warm period, whilst the later research extended this history to the last glacial [@simek1997, p. 562].
 The upper levels show cold and cold-temperate macrofaunas, and on this evidence Malez placed layers 2--4 at the "terminal last interglacial or initial last glacial", and the subsequent levels in the early last glacial [@trinkaus1985, p. 204].
-Electron spin resonance (ESR) dating of tooth enamel, with mass spectrometric U-series analysis used to evaluate the uranium-uptake history, gives a mean of 130 ± 10 ka for levels 1--8, which puts the fluvial sequence in the last interglacial (MIS 5e).
-A single sample from level 9 gives an ESR average of 87 ± 7 ka and a U-series average of 113 ± 10 ka [@rink1995].
+Electron spin resonance (ESR) dating of tooth enamel, with mass spectrometric U-series analysis used to evaluate the uranium-uptake history, gives a mean of 130 ± 10 ka for levels 1--8 [@rink1995].
+@rink1995 call this the "entire fluviatile sequence" and place it in the last interglacial (MIS 5e), although only layer 1 is mostly fluvial and the overlying levels are cave sediments [@miracle2011, p. 88].
 <!-- simek 562 "Based on the fauna, Gorjanović argued that the deposits formed during a warm period"
 simek 562: Malez argued for a longer history "extending from the end of the Riss-Würm well into the Würm glacial complex"
 trinkaus 204 relays Malez: "subsequent cultural levels exhibit cold and cold-temperate macrofaunas"
 "Levels 2--4 are usually referred to the terminal last interglacial or initial last glacial, and the subsequent levels probably date to the early last glacial"
-rink 24: mean 130±10 for layers 1--8, "consistent with its faunal character"
+rink 24: mean 130±10 for layers 1--8, "the entire fluviatile sequence was formed in the last interglacial (stage 5e), consistent with its faunal character"
+"fluviatile sequence" is rink's wording for 1--8
+only layer 1 is fluvial (miracle 88)
 rink 24 table: level 9 sample 91187A, ESR mean 87±7, U-series mean 113±10
 -->
 
