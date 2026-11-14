@@ -225,8 +225,7 @@ The talons are also assigned to a single level on thin evidence [pp. 3, 10--11],
 
 ## Relevance to the Eurasian Record
 
-Krapina holds what @trinkaus1985 [p. 203] described as "the largest sample of archaic human remains known from one site".
-<!-- the situation may have changed -->
+Krapina held what @trinkaus1985 [p. 203] described as "the largest sample of archaic human remains known from one site", though that assertion may no longer hold.
 The restriction of its sequence to MIS 5e makes it a reference point for the last interglacial in Central and Southeastern Europe [@miracle2011, p. 107].
 
 The talons, in the reading of @radovcic2015 [p. 1], indicate ornament production well before modern humans appeared in Europe.
