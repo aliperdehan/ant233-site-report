@@ -232,7 +232,12 @@ According to @saladie2017 [pp. 1042, 1062], Krapina is perhaps the most controve
 ~130 ka (Krapina) to ~43 ka (El Sidrón) from Table 1 -->
 
 Krapina also anchors a regional sequence.
-The Vindija Neanderthals, whom @karavanic2004 [p. 189] reports as directly dated by AMS to 29 and 28 ka, lived in the same area some 100 ka after those of Krapina.
+@karavanic2004 [p. 189] reports the Vindija G1 Neanderthals as directly dated by AMS to 29 and 28 ka, whilst [p. 188] gives the G3 Neanderthals as 42.4 ka by amino-acid racemization and over 42 ka by AMS.
+The G1 dates, however, were revised: @higham2006 [p. 553] redated the two fossils to ~32--33 ka by ultrafiltration, the original determinations being too young through contamination, and @deviese2017 [p. 10606] placed the dated Vindija Neanderthals, G1 and G3, before 40 ka cal BP by hydroxyproline dating.
+<!-- higham 2006: Vi-207, Vi-208 ultrafiltered to ~32,000--33,000 14C BP "and possibly earlier"; originals "too young"
+NB minimum ages: Vi-207 AF fraction C:N 4.3, "not demonstrably accurate" (p. 554); deviese abstract "at least ~32,500 B.P."
+deviese 2017: HYP 42,700±1,600 -- 46,200±1,500 14C BP (Table 2); ">40,000 cal B.P." (p. 10606); "predate ~44,000 cal B.P." (p. 10609)
+-->
 
 ## Conclusion
 
