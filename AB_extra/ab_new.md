@@ -63,3 +63,18 @@ It will be used for Krapina's place in the regional and Eurasian record and for 
 
 **Use:** Source of Gorjanović-Kramberger's stratigraphic section (p. 2, Fig. 1), redrawn as Panel B of Figure 1.
 
+## @higham2006
+
+**Citation:**
+
+[[fullcite:higham2006]]
+
+**Use:** Revised radiocarbon dating of the Vindija G1 Neanderthals (Vi-207, Vi-208) to ~32--33 ka by ultrafiltration, showing the original ~28--29 ka dates were too young; used for the Vindija comparison in the Eurasian relevance section.
+
+## @deviese2017
+
+**Citation:**
+
+[[fullcite:deviese2017]]
+
+**Use:** Hydroxyproline redating of the Vindija Neanderthals to before 40 ka cal BP, superseding the earlier dates; used alongside @higham2006 for the same comparison.
