@@ -8,14 +8,20 @@ It summarises the history, setting, chronology and preservation of the site, des
 ## Site History and Location
 
 Krapina is a collapsed rockshelter in a sandstone bluff above the Krapinica River in the Hrvatsko Zagorje region, about 40 km NNW of Zagreb.
+
 The Palaeolithic deposits were excavated between 1899 and 1905 by the Croatian palaeontologist Dragutin Gorjanović-Kramberger, who recorded roughly 11 m of Pleistocene sediment in nine major levels and published the finds in two monographs, in 1906 and 1913 [@simek1997, pp. 561--562].
+The recorded thickness differs between accounts: 11 m in @simek1997 [p. 562] and @karavanic2004 [p. 187], over 9 m in @miracle2011 [p. 88].
+<!-- simek 562 "11 m of Pleistocene deposits"
+karavanic 187 also 11 m (from the review note; check)
+miracle 88 "a sequence of over 9 metres of deposit" = 1 m fluvial + 8 m cave
+-->
 Krapina is the first Palaeolithic site discovered in Croatia [@karavanic2004, p. 185].
 Nothing remains of the site except the eroded sandstone cliff face [@radovcic2015, p. 2].
 
 <!-- map -->
 
 Regionally, Krapina belongs to a continental zone in northwestern Croatia where Middle Palaeolithic groups occupied caves, such as Vindija, Velika Pećina and Veternica, whereas the milder Dalmatian coast, separated from the northwest by the Dinaric Mountains, yields mostly open-air sites [@karavanic2004, pp. 185--186].
-Beaver remains come mostly from the fluvial base of the shelter, which is consistent with a river-margin setting [@radovcic2015, p. 2].
+Beaver remains come mostly from the fluvial base of the shelter (layer 1), which is consistent with a river-margin setting [@radovcic2015, p. 2].
 
 ## Stratigraphy, Chronology, and Climate
 
