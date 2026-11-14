@@ -167,10 +167,12 @@ now flagged against Miracle
 ## Mortuary Treatment and Symbolic Behaviour
 
 Gorjanović-Kramberger proposed cannibalism in 1906, and @trinkaus1985 [pp. 204--205] reviewed the fragmentation, cut marks, burnt bone and disassociation of the skeletons on which the proposal rests.
-None of these patterns can be explained solely by cannibalism [p. 203], and the preservation of skeletal parts indicates that the Neanderthals were buried, by natural or human processes, soon after death [pp. 203, 205--209], although the data are insufficient to say whether the burial was accidental or intentional [p. 213].
+He concludes that "there is no evidence for cannibalism at Krapina" [p. 209], since the damage patterns are the normal effects of sediment pressure and post-depositional disturbance.
+The preservation of skeletal parts instead indicates that the Neanderthals were buried, by natural or human processes, soon after death [pp. 203, 205--209], although the data are insufficient to say whether the burial was accidental or intentional [p. 213].
 <!-- trinkaus 204 footnote, 205 (1906 proposal)
-203 abstract
+209 "it is best to conclude that there is no evidence for cannibalism at Krapina"
 205-209 analysis
+212 rapid burial protects the remains
 213 "insufficient to determine whether ... accidentally or intentionally buried" -->
 
 @russell1987 [p. 381] tested the striations directly.
