@@ -1,7 +1,7 @@
 ## Introduction
 
 The Krapina rockshelter is widely known for the Neanderthal remains found there.
-The two prevalent camps around the site are those who consider the broken bones as the leftovers of cannibalism and those who regard them as the remnants of careful burial.
+The two prevalent camps around the site are those who consider the broken bones as the leftovers of cannibalism and those who regard them as the remains of bodies buried soon after death and broken afterwards by natural processes.
 This report argues that this framing is too narrow, as what the assemblage can show about behaviour is dependent on how it formed and how it was recovered.
 It summarises the history, setting, chronology and preservation of the site, describes the materials recovered, and evaluates what they reveal about technology, mobility, mortuary treatment and symbolic behaviour, before discussing the importance of Krapina.
 
