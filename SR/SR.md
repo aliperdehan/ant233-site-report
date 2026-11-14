@@ -157,20 +157,15 @@ Since @russel1987 [p. 381] found no resemblance between the Krapina striations a
 548 "oldest example of cultural cannibalism known to date"
 "different points of the diagnostic range" joins Russell and Carbonell -->
 
-the evidence for symbolic behaviour is much more scarce, small sample size
-four of the eight talons and the phalanx carry cut marks, mostly with smoothed edges
-all eight talons show polished facets or abrasion
-three of the largest have similar notches
--> was read as mounting in a necklace or bracelet
-<!-- radovcic 1 abstract, 3, 10 -->
-other Mousterian sites (Pech de l'Azé, Fumane) have yielded only isolated talons
-<!-- radovcic 2 -->
-this reading depends on interpreting the smoothing as wrapping in fibre
-they "assume" this, without experimental or chemical work
-and they cannot rule out taphonomic causes for the notches
-the talons are also assigned to a single level on thin evidence
--> the symbolism is inferred instead of observed
-<!-- radovcic 3, 10-11; "assume" p. 11; "cannot rule out taphonomic causes" p. 10; "no experimental archaeology or chemical analyses" p. 10 -->
+The evidence for symbolic behaviour rests on a much smaller sample.
+@radovcic2015 [pp. 1, 3, 10] report that four of the eight talons and the phalanx carry cut marks, mostly with smoothed edges, that all eight talons show polished facets or abrasion, and that three of the largest have similar notches, which they read as the result of mounting the talons in a necklace or bracelet.
+Other Mousterian sites, such as Pech de l'Azé and Fumane, have yielded only isolated talons [p. 2].
+This reading depends on interpreting the smoothing as wrapping in fibre, which the authors say they "assume" [p. 11] without experimental or chemical work [p. 10], and they cannot rule out taphonomic causes for the notches [p. 10]
+The talons are also assigned to a single level on thin evidence [pp. 3, 10--11], so the symbolism is inferred instead of observed.
+<!-- radovcic 1 abstract, 3, 10
+"assume" p. 11
+"cannot rule out taphonomic causes" p. 10
+"no experimental archaeology or chemical analyses" p. 10 -->
 
 ## Relevance to the Eurasian Record
 
