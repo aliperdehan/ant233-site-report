@@ -191,3 +191,11 @@ According to @saladie2017 [pp. 1042, 1062], Krapina is perhaps the most controve
 
 Krapina also anchors a regional sequence.
 The Vindija Neanderthals, whom @karavanic2004 [p. 189] reports as directly dated by AMS to 29 and 28 ka, lived in the same area some 100 ka after those of Krapina.
+
+## Conclusion
+
+The evidence suggests that the Neanderthal population of Krapina utilised local stone, curated a few exotic pieces, hunted large game, processed its dead, and modified eagle talons.
+Each of these inferences, however, is limited by the passage of the evidence through rockfall, carnivores and early excavation.
+The trends in lithics are tentative, the bear and talon levels are based on thin evidence, and the cut marks on the human bones support opposing readings without being able to definitively distinguish between cannibalism and secondary mortuary practices.
+Both interpretations of the broken bones are thus dependent on material whose formation is only partially known.
+In future work, a single cut-mark protocol could be applied to hominin, ungulate and eagle bones from the same levels, such as the criteria that @radovcic2015 [pp. 2, 8] applied in part to the talons.
