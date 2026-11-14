@@ -29,7 +29,9 @@ The lowest metre of the deposit (layer 1) is mostly fluvial sediment, with some 
 <!-- miracle 88 "the lowermost metre consisted of mostly fluvial sediments", with lenses, "labelled as 'layer 1'"
 "the overlying 8 metres of allocthonous cave sediments contained 8 visible cultural layers", numbered 2 (lowest) to 9 (uppermost)
 -->
-The cultural layers (levels 2 to 9) contain sublevels and lenses, which indicate a more complex depositional history than the nine-level scheme implies.
+The cultural layers (levels 2 to 9) contain sublevels and lenses, which indicate a more complex depositional history than the nine-level scheme implies [@simek1997, p. 562].
+<!-- simek 562 "contained sublevels and lenses, suggesting a complex stratigraphic sequence"
+"more complex ... than the nine-level scheme implies"-->
 Most hominin fossils come from levels 3 and 4, the so-called Hominid Zone, whilst the richest lithic concentrations occur in levels 3 and 8 [@simek1997, pp. 562, 565].
 A sterile rockfall about 1 m thick overlies level 4, which suggests that the shelter wall was already collapsing during the occupation [@trinkaus1985, p. 204].
 <!-- trinkaus 204 for the 1 m rockfall
