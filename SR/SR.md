@@ -41,7 +41,7 @@ A single sample from level 9 gives an ESR average of 87 ± 7 ka and a U-series a
 
 Male bears of Krapina are smaller than those of Divje babe I (MIS 3 and MIS 5a–d), which is best understood as an adaptation to a full interglacial climat.
 It also implies that deposition took place within MIS 5e over thousands rather than tens of thousands of years.
-It was also earlier suggested that sedimentation in the uppermost layer continued into the cooler MIS 5d, but the body-size evidence argues against this.
+Miracle had earlier suggested that sedimentation in the uppermost layer continued into the cooler MIS 5d, but he now considers the body-size evidence to argue against this.
 The scarcity of other modifications on cave bear bones suggests that sediment covered them quickly [@miracle2011, pp. 85–87, 107].
 
 ## Materials Recovered
@@ -50,7 +50,7 @@ The lithic assemblage comprises 1,191 artefacts, of which 273 fit Bordes' Middle
 <!-- 565, 567 (table 1) -->
 The text also lists 38 retouched pieces outside the type list, though.
 <!-- 565 -->
-It is a scraper-rich Charentian Mousterian, in which sidescrapers make up more than half of the tools, notched pieces and naturally backed knives are common, and Levallois blanks are present but not abundant.
+It is a scraper-rich Charentian Mousterian, in which sidescrapers make up more than half of the tools, notched and denticulated pieces and naturally backed knives are common, and Levallois blanks are present but not abundant.
 <!-- 566 -->
 Most raw material was collected as cobbles from the nearby Krapinica River<!--562-->, with tuffs and silicified tuffs accounting for 65% of the artefacts and chert for ~23%.
 <!-- 566 -->
@@ -58,12 +58,11 @@ Most raw material was collected as cobbles from the nearby Krapinica River<!--56
 
 Human skeletal remains: 900 specimens [@simek1997, p. 563]
 <!-- trinkaus: 800, rink: >850 -->
-Even though Krapina 1 is at the extreme of the range, the metric and qualitative traints confirm that it is still consistent with Neanderthal variation
-<!-- 564 -->
+Even though Krapina 1 is often at the extreme of the Neanderthal range, @simek1997 [p. 564] report that its metric and qualitative traits are consistent with inclusion among the Neanderthals.
 
 The cave bears are described as the numerically most important taxon, so the ranking may depend on the counting unit [@miracle2011, p. 86].
 
-[@rink1995] more than 850 skeletal remains from levels 3 and 4.
+More than 850 skeletal remains were found, principally in layers 3 and 4 [@rink1995].
 
 Krapins mostly yields isolated and incomplete bones [@trinkaus1985, p. 203]
 
@@ -125,7 +124,7 @@ the Krapina Neanderthals "appear to have been successful hunters of large game, 
 
 the cave bear remains show little evidence of hominin involvement --- 2.2% of cave bear bones carry cut marks (1.1% gnawed, over 75% whole)
 <!-- miracle, 86 says flatly "no evidence", p. 89 gives the data -->
-The last major phase of occupation, in level 9, was by prime-adult to old male bears
+Miracle suggests that the last major phase of bear occupation, in level 9, was by prime-adult to old male bears
 <!-- 86, 107 -->
 but collection and curation biases have had a major impact on the assemblage
 <!-- 87 -->
@@ -139,11 +138,11 @@ the same level holds a hearth, Mousterian tools and the talons
 
 Gorjanović-Kramberger proposed cannibalism in 1906
 <!-- trinkaus 204 footnote, 205 -->
-Fragmentation, cut marks, burnt bone and disassociation were reviewed.
+Trinkaus reviewed fragmentation, cut marks, burnt bone and disassociation of the skeletons.
 none of these patterns can be explained solely by cannibalism
-it was argued that the Neanderthals were buried, by natural or human processes, soon after death
-<!-- 203 abstract, 205-209 -->
-striations were tested directly
+and argued that the Neanderthals were buried, by natural or human processes, soon after death, though he considered the data insufficient to say whether the burial was accidental or intentional.
+<!-- 203 abstract, 205-209, 213 -->
+Russell tested the striations directly
 48 of 128 Krapina postcranial bones carry striations
 these differ from Mousterian butchery marks on reindeer from Combe Grenal (20 of 241)
 though match statistically the cut marks on 22 modern skeletons defleshed for secondary burial at Juntunen (104 of 310)
@@ -178,7 +177,7 @@ the talons are also assigned to a single level on thin evidence
 
 ## Relevance to the Eurasian Record
 
-it holds "the largest sample of archaic human remains known from one site"
+Trinkaus described the Krapina remains in 1985 as "the largest sample of archaic human remains known from one site"
 <!-- trinkaus 203 -->
 <!-- the situation may have changed -->
 the restriction of the sequence to MIS 5e makes it a reference point for the last interglacial in Central and Southeastern Europe
