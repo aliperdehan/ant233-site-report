@@ -36,8 +36,8 @@ Workmen excavated the shelter with shovels, bones were labelled by level instead
 
 The sediment pressure, rockfall, the activity of cave bears and rodents and hearths built next to buried remains could have broken or scattered the bones [@trinkaus1985, pp. 206–209].
 
-Electron spin resonance (ESR) and mass spectrometric U-series analysis of enamel and dentine result in a mean of 130 ± 10 ka for levels 1--10, which puts the fluvial sequence in the last interglacial (MIS 5e).
-A single sample at layer 9 gives ESR average of 87 ± 7, and U-series average of 113 ± 10 kya [@rink1995].
+Electron spin resonance (ESR) dating of tooth enamel, with mass spectrometric U-series analysis used to evaluate the uranium-uptake history, gives a mean of 130 ± 10 ka for levels 1--8, which puts the fluvial sequence in the last interglacial (MIS 5e).
+A single sample from level 9 gives an ESR average of 87 ± 7 ka and a U-series average of 113 ± 10 ka [@rink1995].
 
 Male bears of Krapina are smaller than those of Divje babe I (MIS 3 and MIS 5a–d), which is best understood as an adaptation to a full interglacial climat.
 It also implies that deposition took place within MIS 5e over thousands rather than tens of thousands of years.
