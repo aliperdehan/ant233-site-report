@@ -1,7 +1,7 @@
 ## Introduction
 
 The Krapina rockshelter is widely known for the Neanderthal remains found there.
-The two prevalent camps around the site are those who consider the broken bones as the leftovers of cannibalsm and those who regard them as the remnants of careful burial.
+The two prevalent camps around the site are those who consider the broken bones as the leftovers of cannibalism and those who regard them as the remnants of careful burial.
 <!-- the final opinion here -->
 This report summarises the history, location, chronology and preservation of the site.
 Then it describes the materials recovered and evaluates what it reveals about technology, mobility, mortuary treatment and symbolic behaviour.
@@ -16,20 +16,20 @@ The Palaeolithic deposits were excavated between 1899 and 1905 by the Croatian p
 
 <!-- Krapina is the first Palaeolithic site discovered in Croatia [@karavanic2004, p. 185]. -->
 
-Regionally, Krapina belongs to a continental zone in northwestern Croatia where Middle Palaeolithic groups occupied caves, such as Vindija, Velika Pećina and Veternica, whereas the milder Dalmatian coast, separated from the northwest by the Dinarid Mountains, yields mostly open-air sites [@karavanic2004, pp. 185--186].
+Regionally, Krapina belongs to a continental zone in northwestern Croatia where Middle Palaeolithic groups occupied caves, such as Vindija, Velika Pećina and Veternica, whereas the milder Dalmatian coast, separated from the northwest by the Dinaric Mountains, yields mostly open-air sites [@karavanic2004, pp. 185--186].
 
 <!-- nothing remains of the site except the eroded, sandstone cliff face -->
 Beaver remains come mostly from the fluvial base of the shelter, which is consistent with a river-margin setting [@radovcic2015, p. 2].
 
 ## Stratigraphy, Chronology, and Climate
 
-The cultural layers (levels 2 to 9) contain sublevels and lenses, which indicates a more complex depositional history than the nine-level scheme implies.
+The cultural layers (levels 2 to 9) contain sublevels and lenses, which indicate a more complex depositional history than the nine-level scheme implies.
 Most hominin fossils come from levels 3 and 4, the so-called Hominid Zone, whilst the richest lithic concentrations occur in levels 3 and 8 [@simek1997, pp. 562, 565].
 
-Gorjanović-Kramberger proposed that the faunal remains indicate that the deposits were formed during a warm period, whilst the later research extended this history to the last glacial [@simek1997, p. 562].
+Gorjanović-Kramberger proposed that the faunal remains indicate that the deposits were formed during a warm period, whilst later research extended this history to the last glacial [@simek1997, p. 562].
 
 A sterile rockfall about 1 m thick overlies level 4, which suggests that the shelter wall was already collapsing during the occupation.
-The upper levels show cold and cold-temperature macrofaunas [@trinkaus1985, p. 204].
+The upper levels show cold and cold-temperature macrofauna [@trinkaus1985, p. 204].
 
 Workmen excavated the shelter with shovels, bones were labelled by level instead of being recorded in position, and dynamite was used to remove large blocks, leaving fresh twentieth-century breaks on many specimens [@trinkaus1985, pp. 204–205].
 <!-- horrible -->
@@ -39,7 +39,7 @@ The sediment pressure, rockfall, the activity of cave bears and rodents and hear
 Electron spin resonance (ESR) dating of tooth enamel, with mass spectrometric U-series analysis used to evaluate the uranium-uptake history, gives a mean of 130 ± 10 ka for levels 1--8, which puts the fluvial sequence in the last interglacial (MIS 5e).
 A single sample from level 9 gives an ESR average of 87 ± 7 ka and a U-series average of 113 ± 10 ka [@rink1995].
 
-Male bears of Krapina are smaller than those of Divje babe I (MIS 3 and MIS 5a--d), which @miracle2011 [pp. 85] reads as an adaptation to a full interglacial climate.
+Male bears of Krapina are smaller than those of Divje babe I (MIS 3 and MIS 5a--d), which @miracle2011 [p. 85] reads as an adaptation to a full interglacial climate.
 It also implies that deposition took place within MIS 5e over thousands rather than tens of thousands of years [p. 107].
 An earlier suggestion that sedimentation in the uppermost layer continued into the cooler MIS 5d [pp. 85--86] is argued against by the same body-size evidence.
 The scarcity of other modifications on cave bear bones suggests that sediment covered them quickly [p. 107].
@@ -58,13 +58,13 @@ Most raw material was collected as cobbles from the nearby Krapinica River<!--56
 
 Human skeletal remains: 900 specimens [@simek1997, p. 563]
 <!-- trinkaus: 800, rink: >850 -->
-Even though Krapina 1 is often at the extreme of the Neanderthal range, @simek1997 [p. 564] report that its metric and qualitative traits are consistent with inclusion among the Neanderthals.
+Even though Krapina 1 is often at the extreme of the Neanderthal range, @simek1997 [p. 564] reports that its metric and qualitative traits are consistent with inclusion among the Neanderthals.
 
 The cave bears are described as the numerically most important taxon, so the ranking may depend on the counting unit [@miracle2011, p. 86].
 
 More than 850 skeletal remains were found, principally in layers 3 and 4 [@rink1995].
 
-Krapins mostly yields isolated and incomplete bones [@trinkaus1985, p. 203]
+Krapina mostly yields isolated and incomplete bones [@trinkaus1985, p. 203]
 
 <!-- MNI = minimum number of individuals -->
 <!-- so the fauna is dominated by large mammals -->
@@ -76,7 +76,7 @@ Eight mostly complete talons, an associated phalanx that represent a minimum of 
 all derive from a single level
 <!-- abstract -->
 `only talon 385.4 bears a pencil mark identifying the uppermost level` ("9" on the talon, p. 5 Fig. 2)
-There are no pencil designations but the colour and preservation of bones are similar.
+There are no pencil designations, but the colour and preservation of bones are similar.
 <!-- 5 (pencil "9"), 3 (colour and preserv) -->
 <!-- Ursus spelaeus zone = uppermost level -->
 On the same level there are at least one hearth and a few Mousterian tools, mainly Levallois blanks and backed knives
@@ -93,7 +93,7 @@ typology is stable --- sidescrapers "vary between 50 and over 90% of the tools i
 <!-- 567 -->
 
 volcanic tuff dominates the early levels (K and 1), and also levels 5 and 9
-the later levels are dominated by silicified tuffs and cherts, which do not co-occur
+The later levels are dominated by silicified tuffs and cherts, which do not co-occur
 <!-- p. 568 "most frequent ... in levels K, 1, 5 and 9"
 p. 569 "most frequent tool material in early levels ... also dominate ... levels 5 and 9"
 p. 570 "silicified tuffs and cherts ... dominate the later levels" -->
@@ -120,7 +120,7 @@ The Krapina Neanderthals also "appear to have been successful hunters of large g
 <!-- karavanic 188 relays: short stays = Simek 1991; long-term possible = Patou-Mathis 1997; hunters = Miracle 1999
 probably closer to the end: get those actual sources -->
 
-@miracle2011 [p. 89] reports little evidence of hominin involvement in the cave bear remains: 2.2% of the bones carry cut marks, 1.1% are gnawed and over 75% are whole.
+@miracle2011 [p. 89] reports little evidence of hominin involvement in the cave bear remains: 2.2% of the bones carry cut marks, 1.1% are gnawed, and over 75% are whole.
 The last major phase of occupation, in level 9, is suggested to have been by prime-adult to old male bears [p. 107], but collection and curation biases have had a major impact on the assemblage [p. 87], and only 12 bear bones carry level information (layers 1, 5--6, 7, 9) [p. 88].
 <!-- miracle 86 says flatly "no evidence of hominin involvement"
 p. 89 gives the data (2.2% of bone NISP cut-marked, 1.1% gnawed, >75% whole)
@@ -149,8 +149,8 @@ Those on 48 of the 128 bones compared differ from Mousterian butchery marks on r
 printed total of 48 striated, but the rows sum to 47
 NB the text, p. 392, says ulnae less and fibulae more likely, contradicting her own table -->
 
-In level TD6 of Gran Dolina (Spain), at more than 800 ka, @carbonell2010 [pp. 539, 542--543, 548] found that butchery on the 165 *Homo antecessor* remains (among 1,039 specimens identified to taxon) resembles that on the non-human remains, and interpret it as the oldest known case of cultural cannibalism.
-Since @russel1987 [p. 381] found no resemblance between the Krapina striations and Mousterian butchery marks, the two sites sit at different points of the diagnostic range.
+In level TD6 of Gran Dolina (Spain), at more than 800 ka, @carbonell2010 [pp. 539, 542--543, 548] found that butchery on the 165 *Homo antecessor* remains (among 1,039 specimens identified to taxon) resembles that on the non-human remains, and interpreted it as the oldest known case of cultural cannibalism.
+Since @russell1987 [p. 381] found no resemblance between the Krapina striations and Mousterian butchery marks, the two sites sit at different points of the diagnostic range.
 <!-- carbonell 539 abstract (>800 ka)
 542 Table 1 (1,039 to taxon)
 543 Table 2 (165; NB total 4,411 includes 1,567 indeterminates)
@@ -160,7 +160,7 @@ Since @russel1987 [p. 381] found no resemblance between the Krapina striations a
 The evidence for symbolic behaviour rests on a much smaller sample.
 @radovcic2015 [pp. 1, 3, 10] report that four of the eight talons and the phalanx carry cut marks, mostly with smoothed edges, that all eight talons show polished facets or abrasion, and that three of the largest have similar notches, which they read as the result of mounting the talons in a necklace or bracelet.
 Other Mousterian sites, such as Pech de l'Azé and Fumane, have yielded only isolated talons [p. 2].
-This reading depends on interpreting the smoothing as wrapping in fibre, which the authors say they "assume" [p. 11] without experimental or chemical work [p. 10], and they cannot rule out taphonomic causes for the notches [p. 10]
+This reading depends on interpreting the smoothing as wrapping in fibre, which the authors say they "assume" [p. 11] without experimental or chemical work [p. 10], and they cannot rule out taphonomic causes for the notches [p. 10].
 The talons are also assigned to a single level on thin evidence [pp. 3, 10--11], so the symbolism is inferred instead of observed.
 <!-- radovcic 1 abstract, 3, 10
 "assume" p. 11
