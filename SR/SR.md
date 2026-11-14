@@ -7,7 +7,13 @@ It summarises the history, setting, chronology and preservation of the site, des
 
 ## Site History and Location
 
-Krapina is a collapsed rockshelter in a sandstone bluff above the Krapinica River in the Hrvatsko Zagorje region, about 40 km NNW of Zagreb.
+Krapina is a collapsed rockshelter about 12 m high, cut into Miocene sandstone and conglomerate on the northeastern slope of Hušnjakovo hill in the Hrvatsko Zagorje region, about 40 km NNW of Zagreb [@trinkaus1985, p. 204; @simek1997, p. 562].
+It sits at 120 m a.s.l., some 25 m above the Krapinica River [@miracle2011, p. 88].
+<!-- trinkaus 204 "a 12 m high rockshelter", "cut into Miocene sandstone and conglomerate during the Middle Pleistocene", Hušnjakovo hill
+miracle 88 "120 m a.s.l. ... northeastern slope of Hušnjakovo hill about 25 m above the Krapinica River"
+simek 562 "sandstone bluff overlooking the Krapinica River ... 40 km NNW of Zagreb"
+NB the 12 m is the shelter height, not the deposit thickness (11 m / over 9 m)
+-->
 
 The Palaeolithic deposits were excavated between 1899 and 1905 by the Croatian palaeontologist Dragutin Gorjanović-Kramberger, who recorded roughly 11 m of Pleistocene sediment in nine major levels and published the finds in two monographs, in 1906 and 1913 [@simek1997, pp. 561--562].
 The recorded thickness differs between accounts: 11 m in @simek1997 [p. 562] and @karavanic2004 [p. 187], over 9 m in @miracle2011 [p. 88].
