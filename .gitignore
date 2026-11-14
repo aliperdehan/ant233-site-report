@@ -21,3 +21,10 @@ bib/*-pre-grammarly.md
 /info/
 /sources/
 *.pdf
+
+# Python bytecode
+__pycache__/
+
+# Map project: regenerate with `python fetch_data.py` then `python make_map.py` (in map/)
+map/output/*.svg
+map/data/raw/
