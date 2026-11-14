@@ -1,4 +1,4 @@
-# Krapina Rockshelter, Croatia: Neanderthal Behaviour and the Limits Set by Site Formation and Recovery
+% Krapina Rockshelter, Croatia: Neanderthal Behaviour and the Limits Set by Site Formation and Recovery
 
 ## Introduction
 
@@ -155,7 +155,7 @@ probably closer to the end: get those actual sources -->
 
 @miracle2011 [p. 89] reports little evidence of hominin involvement in the cave bear remains: 2.2% of the bones carry cut marks, 1.1% are gnawed, and over 75% are whole.
 He concludes that the last major phase of occupation, in layer 9, "[was not by Neandertals but by] ... prime-adult to old male cave bears" [p. 86], but collection and curation biases have had a major impact on the assemblage [p. 87], and only 12 bear bones carry stratigraphic information (layers 1, 5--6, 7, 9) [p. 88].
-The uppermost layers (8/9), which Gorjanović-Kramberger called the "Ursus spelaeus zone", also hold at least one hearth, a few Mousterian tools and the talons described above [@radovcic2015, pp. 3, 11], so they may well record use by both bears and Neanderthals, which goes against his stated reading.
+The uppermost layers (8/9), which Gorjanović-Kramberger called the "Ursus spelaeus zone", also hold at least one hearth, a few Mousterian tools and the talons described above [@radovcic2015, pp. 3, 11], so they may well record use by both bears and Neanderthals<!--, which goes against his stated reading-->.
 The two need not conflict, though.
 A hearth and a few tools do not necessarily constitute a major phase of occupation, and the zone spans layers 8 and 9 rather than layer 9 alone.
 @miracle2011 [p. 86] himself also raises the time-shared use of caves by bears and hominins.
@@ -209,9 +209,9 @@ Since @russell1987 [p. 381] found no resemblance between the Krapina striations 
 
 @saladie2017 [p. 1035] recognise cannibalism by four markers: anthropogenic modification on more than 20% of the human remains, intensive processing of the bodies, more defleshing and filleting cut marks than dismembering marks, and human tooth or chewing marks.
 In TD6, 44.5% of the *Homo antecessor* bones carry anthropogenic modification, the bodies were processed intensively, and human tooth marks are recorded [p. 1039].
-Krapina passes the first test on Russell's counts, with striations on 48 of the 128 bones compared (38%) [@russell1987, p. 384];
+<!-- Krapina passes the first test on Russell's counts, with striations on 48 of the 128 bones compared (38%) [@russell1987, p. 384];
 the readings, however, diverge once the other markers are considered.
-White and Toth claim intensive processing and possible tooth marks [@saladie2017, p. 1043], whereas Russell reads the striations as defleshing to prepare bones for burial.
+White and Toth claim intensive processing and possible tooth marks [@saladie2017, p. 1043], whereas Russell reads the striations as defleshing to prepare bones for burial. -->
 <!-- saladie 1035 abstract --- markers
 1039 TD6: "44.5% exhibited some type of anthropogenic modification"
 bodies "scalped, skinned, disarticulated, eviscerated and defleshed"
@@ -255,7 +255,7 @@ NB minimum ages: Vi-207 AF fraction C:N 4.3, "not demonstrably accurate" (p. 554
 deviese 2017: HYP 42,700±1,600 -- 46,200±1,500 14C BP (Table 2); ">40,000 cal B.P." (p. 10606); "predate ~44,000 cal B.P." (p. 10609)
 -->
 
-## Conclusion
+## Conclusion
 
 The evidence suggests that the Neanderthal population of Krapina utilised local stone, curated a few exotic pieces, hunted large game, processed its dead, and modified eagle talons.
 Each of these inferences, however, is limited by the passage of the evidence through rockfall, carnivores and early excavation.

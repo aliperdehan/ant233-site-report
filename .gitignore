@@ -28,3 +28,6 @@ __pycache__/
 # Map project: regenerate with `python fetch_data.py` then `python make_map.py` (in map/)
 map/output/*.svg
 map/data/raw/
+
+# Local copy of the APA style (pandoc finds it in its user data dir; pdfmd/typst needs it beside metadata.yaml)
+metadata/apa6.csl

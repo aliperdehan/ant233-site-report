@@ -1,4 +1,9 @@
-# AI Use Acknowledgement (Site Report)
+---
+title: AI Use Acknowledgement (Site Report)
+linestretch: 1
+bibliography: null
+indent: false
+---
 
 Tool: Claude Code, running Claude Sonnet 5.5 (Anthropic), 10--15 November 2026.
 

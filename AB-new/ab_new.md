@@ -16,6 +16,7 @@ pdfmd-options:
   lua-filter: ../metadata/fullcite.lua
   engine: typst
   flavour: pandoc
+  paragraph-spacing: 4pt
 ---
 
 ## @simek1997
