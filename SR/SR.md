@@ -76,32 +76,27 @@ SI p. 11: Ursus spelaeus zone = layers 8/9 -->
 
 ## Technology, Subsistence and Mobility
 
-Chaîne opératoire: cobble wedges, "amorphous flakes with remnant cortex and numerous naturally-backed knives"
-some exotic materials from which large artefacts with no waste -> carried across the landscape
-indicates curation
-<!-- simek 561-562 -->
-typology is stable --- sidescrapers "vary between 50 and over 90% of the tools in a level"
-<!-- 567 -->
-volcanic tuff dominates the early levels (K and 1), and also levels 5 and 9
-The later levels are dominated by silicified tuffs and cherts, which do not co-occur
-<!-- p. 568 "most frequent ... in levels K, 1, 5 and 9"
-p. 569 "most frequent tool material in early levels ... also dominate ... levels 5 and 9"
-p. 570 "silicified tuffs and cherts ... dominate the later levels" -->
-Levallois is more frequent earlier in time, but present in both units.
-<!-- 572 -->
+@simek1997 [pp. 561--562] describe a technology as built on local river cobbles.
+The cobbles were opened as cobble wedges, producing flakes with remnant cortex and many naturally backed knives.
+A few large artefacts of exotic stone, for which no waste occurs on site, indicate that some materials were curated as groups moved across the landscape [p. 562].
+Typology remains stable, as sidescrapers vary between 50% and over 90% of the tools in each level without any systematic trend.
+Raw material choice and blank production, though, do change, namely, volcanic tuff dominates the early levels (and also levels 5 and 9), silicified tuffs and cherts become more important later, and Levallois flaking is more frequent in the lower than in the upper unit [pp. 567, 569--570, 572].
+Silicified tuff forms only ~1% of the modern river gravels but is abundant in the hominin-rich levels 3 and 8, meaning it was either selected at the river or brought in from further afield [p. 569].
+The authors read these shifts as behavioural change among Neanderthals, not as replacement by modern humans, but the trends remain tentative, since no level reaches the 100-tool minimum for typological analysis, and only retouched tools were assigned to levels [pp. 561, 565--566].
 
-silicified tuff is only ~1% of the modern river gravels
-but abundant in the hominin-rich levels 3 and 8
--> either selected at the river or brought in from further away
-<!-- 569 -->
-the shifts are read as behavioural change among Neanderthals, not replacement by modern humans
-<!-- 561, abstract -->
-but no level is anywhere near Bordes' 100-tool minimum for typological analysis
-<!-- 565 -->
-and only retouched tools were assigned to levels --- under 300 artefacts, about 24% of the total
-<!-- 561, 565 -->
-so the trends remain tentative, "must be viewed with caution"
-<!-- 566 -->
+<!-- simek 562 "river cobble exploitation was by far the primary factor determining the lithic technology"
+561-562 chaîne opératoire
+exotic pieces, "no waste", "indicates curation"
+567 sidescrapers "vary between 50 and over 90% of the tools in a level"
+"No trend in typological composition"
+568 "most frequent ... in levels K, 1, 5 and 9"
+569 "most frequent tool material in early levels ... also dominate ... levels 5 and 9"
+570 "silicified tuffs and cherts ... dominate the later levels" and "do not co-occur"
+572 Levallois "present in both Units ... more frequent earlier in time"
+569 silicified tuff ~1% of modern gravels; "either it was procured elsewhere or it was preferentially selected"
+561 abstract "behavioral change among Neandertals rather than between Neandertal and modern human populations"
+565 no level near the 100-tool minimum; under 300 artefacts, about 24%, assigned to levels
+566 "must be viewed with caution" -->
 
 Occupation intensity is debated: @karavanic2004 [p. 188] relays the reading that small lithic numbers in every level and some non-local materials point to short stays by mobile groups, although long-term occupation of some levels is also possible.
 The Krapina Neanderthals also "appear to have been successful hunters of large game, including Merck's rhinoceros" [p. 188].
