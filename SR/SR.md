@@ -91,9 +91,13 @@ indicates curation
 <!-- simek 561-562 -->
 typology is stable --- sidescrapers "vary between 50 and over 90% of the tools in a level"
 <!-- 567 -->
-early levels (K, 1, 5, 9) are dominated by  volcanic tuff
-later levels tuff and cherts
-<!-- 569-570 -->
+
+volcanic tuff dominates the early levels (K and 1), and also levels 5 and 9
+the later levels are dominated by silicified tuffs and cherts, which do not co-occur
+<!-- p. 568 "most frequent ... in levels K, 1, 5 and 9"
+p. 569 "most frequent tool material in early levels ... also dominate ... levels 5 and 9"
+p. 570 "silicified tuffs and cherts ... dominate the later levels" -->
+
 Lvallois is more frequent earlier in time, but present in both units.
 <!-- 572 -->
 
