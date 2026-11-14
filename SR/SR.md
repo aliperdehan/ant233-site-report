@@ -55,25 +55,24 @@ Burning and stone tool cut marks occur on part of the mammalian fauna (13.6% and
 miracle 86 "numerically the most important taxon in the Krapina collections"
 "dominated by large mammals" is inference -->
 
-Human skeletal remains: 900 specimens [@simek1997, p. 563]
-<!-- trinkaus: 800, rink: >850 -->
-More than 850 skeletal remains were found, principally in layers 3 and 4 [@rink1995].
-Krapina mostly yields isolated and incomplete bones [@trinkaus1985, p. 203]
-Level 8 yielded the cranium of a juvenile, Krapina 1, whose modern-looking features led @rink1995 to suggest that the level 8 hominids were possibly transitional to anatomically modern humans.
-<!-- rink 24: "layer 8 contained cranial elements of a 6-8-yr-old juvenile (Krapina 1)"; "possibly transitional to anatomically modern hominids" -->
-Even though Krapina 1 is often at the extreme of the Neanderthal range, @simek1997 [p. 564] report that its metric and qualitative traits are consistent with inclusion among the Neanderthals.
+The hominin sample is the best known component, with more than 850 skeletal remains (about 900 in Simek and Smith's count), principally from levels 3 and 4 [@rink1995; @simek1997, p. 563], although it remains primarily a collection of isolated and incomplete bones [@trinkaus1985, p. 203].
+The modern-looking features of a juvenile Krapina 1 recovered from level 8 led to the suggestion of a transitional population [@rink1995].
+The later metric and qualitative work, however, found it consistent with Neanderthal variation [@simek1997, p. 564].
+<!-- rink 24: "more than 850 skeletal remains ... principally in layers 3 and 4"
+level 8 "6-8-yr-old juvenile (Krapina 1)", "possibly transitional to anatomically modern hominids"
+simek 563 "some 900 specimens"
+564 Krapina 1 "consistent with inclusion among the Neandertals" (Minugh-Purvis 1996, 1997)
+trinkaus 203 "approximately 800 human bones and bone fragments"
+"remains primarily a collection of isolated and incomplete bones" -->
 
-Eight mostly complete talons, an associated phalanx that represent a minimum of three eagles (later "three-four different eagles").
-<!-- 1 -->
-all derive from a single level
-<!-- abstract -->
-`only talon 385.4 bears a pencil mark identifying the uppermost level` ("9" on the talon, p. 5 Fig. 2)
-There are no pencil designations, but the colour and preservation of bones are similar.
-<!-- 5 (pencil "9"), 3 (colour and preserv) -->
-<!-- Ursus spelaeus zone = uppermost level -->
-On the same level there is at least one hearth and a few Mousterian tools, mainly Levallois blanks and backed knives
-<!-- 3 -->
-<!-- all radovcic -->
+The eight white-tailed eagle talons and an associated phalanx, representing at least three birds, are attributed to the uppermost level, the "Ursus spelaeus zone", even though only one talon carries Gorjanović-Kramberger's pencil mark for that level and the rest are assigned on similar colour and preservation [@radovcic2015, pp. 1, 3].
+At least one hearth and a few Mousterian tools, mainly Levallois blanks and backed knives [p. 3], were found in the same level.
+<!-- radovcic 1 abstract: "all derive from a single level"
+"minimum of three eagles"
+3: talon 385.4 pencil mark
+"similar in color and preservation"
+5 Fig. 2 pencil "9"; 3 hearth and tools
+SI p. 11: Ursus spelaeus zone = layers 8/9 -->
 
 ## Technology, Subsistence and Mobility
 
