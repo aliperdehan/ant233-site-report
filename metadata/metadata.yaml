@@ -11,6 +11,11 @@ linestretch: 2
 mainfont: "Times New Roman"
 monofont: "Courier New"
 margin: 1in
+indent: true
+header-includes: |
+  ```{=typst}
+  #show figure.caption: set par(leading: 0.6em)
+  ```
 pdfmd-options:
   engine: typst
   lua-filter: pagecite.lua
