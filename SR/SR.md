@@ -43,21 +43,17 @@ The scarcity of other modifications on cave bear bones suggests that sediment co
 
 ## Materials Recovered
 
-The lithic assemblage comprises 1,191 artefacts, of which 273 fit Bordes' Middle Palaeolithic tool types and 918 are classed as waste.
-<!-- 565, 567 (table 1) -->
-The text also lists 38 retouched pieces outside the type list, though.
-<!-- 565 -->
-It is a scraper-rich Charentian Mousterian, in which sidescrapers make up more than half of the tools, notched and denticulated pieces and naturally backed knives are common, and Levallois blanks are present but not abundant.
-<!-- 566 -->
-Most raw material was collected as cobbles from the nearby Krapinica River<!--562-->, with tuffs and silicified tuffs accounting for 65% of the artefacts and chert for ~23%.
-<!-- 566 -->
-[@simek1997, pp. 562, 565--567].
+The lithic assemblage comprises 1,191 artefacts, of which 273 fit Bordes' Middle Palaeolithic tool types and 918 are classed as waste, and 38 retouched pieces are listed outside the type list [@simek1997, pp. 565, 567].
+It is a scraper-rich Charentian Mousterian, in which sidescrapers make up more than half of the tools, notched and denticulated pieces and naturally backed knives are common, and Levallois blanks are present but not abundant [p. 566].
 
-<!-- MNI = minimum number of individuals -->
-<!-- so the fauna is dominated by large mammals -->
-25 taxa; MNI rhinos 21.7%, bears 17.0%, bison/bos 7.5%; beavers "17.9% of the bones from site", mostly from the fluvial base; 13.6% burning, 4.1% cut marks
-[@radovcic2015, p. 2]
-The cave bears are described as the numerically most important taxon, so the ranking may depend on the counting unit [@miracle2011, p. 86].
+The fauna is dominated by large mammals.
+Among 25 mammalian taxa, rhinoceros (21.7% of the minimum number of individuals, MNI), bears (17.0% of MNI) and bison or aurochs (7.5% of MNI) are the main large mammals, whilst beaver, which derives mostly from the fluvial base of the shelter, is given separately as 17.9% of the bones [@radovcic2015, p. 2].
+@miracle2011 [p. 86] nevertheless describes the cave bear as the numerically most important taxon, so the ranking may depend on the counting unit.
+Burning and stone tool cut marks occur on part of the mammalian fauna (13.6% and 4.1%, respectively) [@radovcic2015, p. 2].
+<!-- radovcic 2: 25 taxa; MNI 21.7 / 17.0 / 7.5; beaver "17.9% of the bones from site", "mostly coming from the fluvial base"
+"of these 13.6% of show evidence of burning and another 4.1% preserve stone tool cut marks": the denominator is unclear
+miracle 86 "numerically the most important taxon in the Krapina collections"
+"dominated by large mammals" is inference -->
 
 Human skeletal remains: 900 specimens [@simek1997, p. 563]
 <!-- trinkaus: 800, rink: >850 -->
