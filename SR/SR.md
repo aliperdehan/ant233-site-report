@@ -27,7 +27,7 @@ Nothing remains of the site except the eroded sandstone cliff face [@radovcic201
 <!-- map -->
 
 Regionally, Krapina belongs to a continental zone in northwestern Croatia where Middle Palaeolithic groups occupied caves, such as Vindija, Velika Pećina and Veternica, whereas the milder Dalmatian coast, separated from the northwest by the Dinaric Mountains, yields mostly open-air sites [@karavanic2004, pp. 185--186].
-Beaver remains come mostly from the fluvial base of the shelter (layer 1), which is consistent with a river-margin setting [@radovcic2015, p. 2].
+Beaver remains come mostly from the fluvial base of the shelter (layer 1), which is consistent with a river-margin setting [@radovcic2015, p. 2; @miracle2011, p. 88].
 
 ## Stratigraphy, Chronology, and Climate
 
@@ -44,7 +44,7 @@ A sterile rockfall about 1 m thick overlies level 4, which suggests that the she
 "already collapsing during the occupation" is inference -->
 
 Gorjanović-Kramberger proposed that the faunal remains indicate that the deposits were formed during a warm period, whilst the later research extended this history to the last glacial [@simek1997, p. 562].
-The upper levels show cold and cold-temperate macrofaunas, and on this evidence Malez placed layers 2--4 at the "terminal last interglacial or initial last glacial", and the subsequent levels in the early last glacial [@trinkaus1985, p. 204].
+The upper levels show cold and cold-temperate macrofaunas, and on this evidence layers 2--4 are usually referred to the "terminal last interglacial or initial last glacial", and the subsequent levels probably to the early last glacial, following Malez [@trinkaus1985, p. 204].
 Electron spin resonance (ESR) dating of tooth enamel, with mass spectrometric U-series analysis used to evaluate the uranium-uptake history, gives a mean of 130 ± 10 ka for levels 1--8 [@rink1995].
 @rink1995 call this the "entire fluviatile sequence" and place it in the last interglacial (MIS 5e), although only layer 1 is mostly fluvial and the overlying levels are cave sediments [@miracle2011, p. 88].
 <!-- simek 562 "Based on the fauna, Gorjanović argued that the deposits formed during a warm period"
@@ -152,10 +152,11 @@ hunters = Miracle 1999
 probably closer to the end: get those actual sources -->
 
 @miracle2011 [p. 89] reports little evidence of hominin involvement in the cave bear remains: 2.2% of the bones carry cut marks, 1.1% are gnawed, and over 75% are whole.
-He concludes that the last major phase of occupation, in level 9, "[was not by Neandertals but by] ... prime-adult to old male cave bears" [pp. 86, 107], but collection and curation biases have had a major impact on the assemblage [p. 87], and only 12 bear bones carry level information (layers 1, 5--6, 7, 9) [p. 88].
+He concludes that the last major phase of occupation, in layer 9, "[was not by Neandertals but by] ... prime-adult to old male cave bears" [p. 86], but collection and curation biases have had a major impact on the assemblage [p. 87], and only 12 bear bones carry stratigraphic information (layers 1, 5--6, 7, 9) [p. 88].
 The uppermost layers (8/9), which Gorjanović-Kramberger called the "Ursus spelaeus zone", also hold at least one hearth, a few Mousterian tools and the talons described above [@radovcic2015, pp. 3, 11], so they may well record use by both bears and Neanderthals, which goes against his stated reading.
 The two need not conflict, though.
-A hearth and a few tools do not necessarily constitute a major phase of occupation, the zone spans layers 8 and 9 rather than level 9 alone, and Miracle himself raises the time-shared use of caves by bears and hominins [p. 86].
+A hearth and a few tools do not necessarily constitute a major phase of occupation, and the zone spans layers 8 and 9 rather than layer 9 alone.
+@miracle2011 [p. 86] himself also raises the time-shared use of caves by bears and hominins.
 <!-- miracle 86, quoting Miracle 2007, 236: "the last major phase of occupation at Krapina (layer 9) [was not by Neandertals but by] ... prime-adult to old male cave bears"
 86 "no evidence of hominin involvement in the accumulation or modification of cave bear remains"
 86 "shared (time-shared?) use of caves and rock overhangs"
@@ -245,8 +246,8 @@ According to @saladie2017 [pp. 1042, 1062], Krapina is perhaps the most controve
 ~130 ka (Krapina) to ~43 ka (El Sidrón) from Table 1 -->
 
 Krapina also anchors a regional sequence.
-@karavanic2004 [p. 189] reports the Vindija G1 Neanderthals as directly dated by AMS to 29 and 28 ka, whilst [p. 188] gives the G3 Neanderthals as 42.4 ka by amino-acid racemization and over 42 ka by AMS.
-The G1 dates, however, were revised: @higham2006 [p. 553] redated the two fossils to ~32--33 ka by ultrafiltration, the original determinations being too young through contamination, and @deviese2017 [p. 10606] placed the dated Vindija Neanderthals, G1 and G3, before 40 ka cal BP by hydroxyproline dating.
+@karavanic2004 [p. 189] reports the Vindija G1 Neanderthals as directly dated by AMS to 29 and 28 ka (radiocarbon), whilst [p. 188] gives the G3 Neanderthals as 42.4 ka by amino-acid racemization and over 42 ka by AMS.
+The G1 dates, however, were revised: @higham2006 [pp. 553--555] redated the two fossils to ~32--33 ka (radiocarbon) by ultrafiltration, the original determinations being too young through contamination, and @deviese2017 [p. 10606] placed the dated Vindija Neanderthals, G1 and G3, before 40 ka cal BP by hydroxyproline dating.
 <!-- higham 2006: Vi-207, Vi-208 ultrafiltered to ~32,000--33,000 14C BP "and possibly earlier"; originals "too young"
 NB minimum ages: Vi-207 AF fraction C:N 4.3, "not demonstrably accurate" (p. 554); deviese abstract "at least ~32,500 B.P."
 deviese 2017: HYP 42,700±1,600 -- 46,200±1,500 14C BP (Table 2); ">40,000 cal B.P." (p. 10606); "predate ~44,000 cal B.P." (p. 10609)
