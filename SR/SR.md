@@ -149,16 +149,13 @@ Those on 48 of the 128 bones compared differ from Mousterian butchery marks on r
 printed total of 48 striated, but the rows sum to 47
 NB the text, p. 392, says ulnae less and fibulae more likely, contradicting her own table -->
 
-<!-- contrasting with the level TD6 of Gran Dolina (Spain) -->
-more than 800 ka, the oldest known case
-165 Homo antecessor remains among 1,039 specimens identified to taxon
-butchery on the human remains is similar to that on the non-human remains
--> interpreted as cultural cannibalism
-<!-- carbonell 539 abstract, 542 table 1, 543 -->
-<!-- NOTE: table 2 on 543 totals 4,411 but includes 1,567 indeterminates; 1,039 is the taxon-identified total -->
-Russell found no resemblance between the Krapina striations and Mousterian butchery marks
--> the two sites sit at different points of the diagnostic range
-<!-- russell 381; carbonell 539 -->
+In level TD6 of Gran Dolina (Spain), at more than 800 ka, @carbonell2010 [pp. 539, 542--543, 548] found that butchery on the 165 *Homo antecessor* remains (among 1,039 specimens identified to taxon) resembles that on the non-human remains, and interpret it as the oldest known case of cultural cannibalism.
+Since @russel1987 [p. 381] found no resemblance between the Krapina striations and Mousterian butchery marks, the two sites sit at different points of the diagnostic range.
+<!-- carbonell 539 abstract (>800 ka)
+542 Table 1 (1,039 to taxon)
+543 Table 2 (165; NB total 4,411 includes 1,567 indeterminates)
+548 "oldest example of cultural cannibalism known to date"
+"different points of the diagnostic range" joins Russell and Carbonell -->
 
 the evidence for symbolic behaviour is much more scarce, small sample size
 four of the eight talons and the phalanx carry cut marks, mostly with smoothed edges
