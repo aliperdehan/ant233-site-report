@@ -49,7 +49,7 @@ All original thought and writing MUST stem from me.
   The first pass was on the draft as it stood at commit `eddb582` (before any of Claude's work in this session), a second came after my rewrites, and a third on the figure caption.
   It gave no replacement wording, and every correction was written by me.
 - **Tooling.**
-  `metadata/pagecite.lua` (turns a bare `[p. 107]` after a citation into the page reference), and the bibliography, References heading and filter settings in `metadata/metadata.yaml`.
+  `metadata/pagecite.lua` (turns a bare `[p. 107]` after a citation into the page reference), `build.sh` (runs `pdfmd` on `SR/SR.md`, `SR/AI-use.md`, and `AB-new/AB-new`, and merges them together with `qpdf`), and the bibliography, References heading and filter settings in `metadata/metadata.yaml`.
 - **Bibliography entries.**
   The entries for Higham et al. (2006), Devièse et al. (2017) and Radovčić et al. (2016) were created from the first pages of their PDFs.
 - **The map (`map/`).**
