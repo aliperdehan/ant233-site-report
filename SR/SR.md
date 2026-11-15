@@ -40,7 +40,7 @@ The lowest metre of the deposit (layer 1) is mostly fluvial sediment, with some 
 The cultural layers (levels 2 to 9) contain sublevels and lenses, which indicate a more complex depositional history than the nine-level scheme implies [@simek1997, p. 562].
 <!-- simek 562 "contained sublevels and lenses, suggesting a complex stratigraphic sequence"
 "more complex ... than the nine-level scheme implies"-->
-Most hominin fossils come from levels 3 and 4, the so-called Hominid Zone, whilst the richest lithic concentrations occur in levels 3 and 8 [@simek1997, pp. 562, 565].
+Most hominin fossils come from levels 3 and 4, the so-called Hominid Zone, whilst the richest lithic concentrations occur in levels 3 and 8 [pp. 562, 565].
 A sterile rockfall about 1 m thick overlies level 4, which suggests that the shelter wall was already collapsing during the occupation [@trinkaus1985, p. 204].
 <!-- trinkaus 204 for the 1 m rockfall
 "already collapsing during the occupation" is inference -->
@@ -48,7 +48,7 @@ A sterile rockfall about 1 m thick overlies level 4, which suggests that the she
 Gorjanović-Kramberger proposed that the faunal remains indicate that the deposits were formed during a warm period, whilst the later research extended this history to the last glacial [@simek1997, p. 562].
 The upper levels show cold and cold-temperate macrofaunas, and on this evidence layers 2--4 are usually referred to the "terminal last interglacial or initial last glacial", and the subsequent levels probably to the early last glacial, following Malez [@trinkaus1985, p. 204].
 Electron spin resonance (ESR) dating of tooth enamel, with mass spectrometric U-series analysis used to evaluate the uranium-uptake history, gives a mean of 130 ± 10 ka for levels 1--8 [@rink1995].
-@rink1995 call this the "entire fluviatile sequence" and place it in the last interglacial (MIS 5e), although only layer 1 is mostly fluvial and the overlying levels are cave sediments [@miracle2011, p. 88].
+They call this the "entire fluviatile sequence" and place it in the last interglacial (MIS 5e), although only layer 1 is mostly fluvial and the overlying levels are cave sediments [@miracle2011, p. 88].
 <!-- simek 562 "Based on the fauna, Gorjanović argued that the deposits formed during a warm period"
 simek 562: Malez argued for a longer history "extending from the end of the Riss-Würm well into the Würm glacial complex"
 trinkaus 204 relays Malez: "subsequent cultural levels exhibit cold and cold-temperate macrofaunas"
@@ -81,7 +81,7 @@ The earlier suggestions that sedimentation in the uppermost layer continued into
 
 Workmen excavated the shelter with shovels, bones were labelled by level instead of being recorded in position, and dynamite was used to remove large blocks, leaving fresh twentieth-century breaks on many specimens [@trinkaus1985, pp. 204–205].
 <!-- horrible -->
-The sediment pressure, rockfall, the activity of cave bears and rodents and hearths built next to buried remains could have broken or scattered the bones [@trinkaus1985, pp. 206–209].
+The sediment pressure, rockfall, the activity of cave bears and rodents and hearths built next to buried remains could have broken or scattered the bones [pp. 206–209].
 The scarcity of other modifications on cave bear bones suggests that sediment covered them quickly [@miracle2011, p. 107].
 
 ## Materials Recovered
@@ -156,7 +156,7 @@ probably closer to the end: get those actual sources -->
 @miracle2011 [p. 89] reports little evidence of hominin involvement in the cave bear remains: 2.2% of the bones carry cut marks, 1.1% are gnawed, and over 75% are whole.
 He concludes that the last major phase of occupation, in layer 9, "[was not by Neandertals but by] ... prime-adult to old male cave bears" [p. 86], but collection and curation biases have had a major impact on the assemblage [p. 87], and only 12 bear bones carry stratigraphic information (layers 1, 5--6, 7, 9) [p. 88].
 The uppermost layers (8/9), which Gorjanović-Kramberger called the "Ursus spelaeus zone", also hold at least one hearth, a few Mousterian tools and the talons described above [@radovcic2015, pp. 3, 11], so they may well record use by both bears and Neanderthals<!--, which goes against his stated reading-->.
-The two need not conflict, though.
+These findings need not conflict, though.
 A hearth and a few tools do not necessarily constitute a major phase of occupation, and the zone spans layers 8 and 9 rather than layer 9 alone.
 @miracle2011 [p. 86] himself also raises the time-shared use of caves by bears and hominins.
 <!-- miracle 86, quoting Miracle 2007, 236: "the last major phase of occupation at Krapina (layer 9) [was not by Neandertals but by] ... prime-adult to old male cave bears"
@@ -209,14 +209,14 @@ Since @russell1987 [p. 381] found no resemblance between the Krapina striations 
 
 @saladie2017 [p. 1035] recognise cannibalism by four markers: anthropogenic modification on more than 20% of the human remains, intensive processing of the bodies, more defleshing and filleting cut marks than dismembering marks, and human tooth or chewing marks.
 In TD6, 44.5% of the *Homo antecessor* bones carry anthropogenic modification, the bodies were processed intensively, and human tooth marks are recorded [p. 1039].
-<!-- Krapina passes the first test on Russell's counts, with striations on 48 of the 128 bones compared (38%) [@russell1987, p. 384];
+Krapina passes the first test on Russell's counts, with striations on 48 of the 128 bones compared (`48 / 128 * 100`{=1dp}%) [@russell1987, p. 384];
 the readings, however, diverge once the other markers are considered.
-White and Toth claim intensive processing and possible tooth marks [@saladie2017, p. 1043], whereas Russell reads the striations as defleshing to prepare bones for burial. -->
+White and Toth claim intensive processing and possible tooth marks [@saladie2017, p. 1043], whereas Russell reads the striations as defleshing to prepare bones for burial.
 <!-- saladie 1035 abstract --- markers
 1039 TD6: "44.5% exhibited some type of anthropogenic modification"
 bodies "scalped, skinned, disarticulated, eviscerated and defleshed"
 "human tooth marks"
-russell 384 Table 4: 48 of 128 = 37.5%
+russell 384 Table 4: 48 of 128 = 37.5% (inline `calc` now)
 NB the 128 is a subset (the nine element groups compared), the rows sum to 47
 
 applying Saladié's markers to Krapina is inference
