@@ -3,6 +3,11 @@ title: AI Use Acknowledgement (Site Report)
 linestretch: 1
 bibliography: null
 indent: false
+header-includes: |
+  ```{=typst}
+  #show link: set text(fill: rgb("#0645AD"))
+  #show link: underline
+  ```
 ---
 
 Tool: Claude Code, running Claude Sonnet 5.5 (Anthropic), 10--15 November 2026.
